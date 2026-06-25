@@ -1,0 +1,235 @@
+{
+  "artworks": [
+    {
+      "id": "bloom",
+      "name": "Bloom",
+      "thumb": "bloom_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "bloom_canvas_1218.glb",
+              "usdz": "bloom_canvas_1218.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "bloom_canvas_1824.glb",
+              "usdz": "bloom_canvas_1824.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "bloom_canvas_2436.glb",
+              "usdz": "bloom_canvas_2436.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "bloom_canvas_3048.glb",
+              "usdz": "bloom_canvas_3048.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "bloom_canvas_3660.glb",
+              "usdz": "bloom_canvas_3660.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "bloom_poster_a4.glb",
+              "usdz": "bloom_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "bloom_poster_a3.glb",
+              "usdz": "bloom_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dunes",
+      "name": "Dunes",
+      "thumb": "dunes_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "dunes_canvas_1218.glb",
+              "usdz": "dunes_canvas_1218.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "dunes_canvas_1824.glb",
+              "usdz": "dunes_canvas_1824.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "dunes_canvas_2436.glb",
+              "usdz": "dunes_canvas_2436.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "dunes_canvas_3048.glb",
+              "usdz": "dunes_canvas_3048.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "dunes_canvas_3660.glb",
+              "usdz": "dunes_canvas_3660.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "dunes_poster_a4.glb",
+              "usdz": "dunes_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "dunes_poster_a3.glb",
+              "usdz": "dunes_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tide",
+      "name": "Tide",
+      "thumb": "tide_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "tide_canvas_1218.glb",
+              "usdz": "tide_canvas_1218.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "tide_canvas_1824.glb",
+              "usdz": "tide_canvas_1824.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "tide_canvas_2436.glb",
+              "usdz": "tide_canvas_2436.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "tide_canvas_3048.glb",
+              "usdz": "tide_canvas_3048.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "tide_canvas_3660.glb",
+              "usdz": "tide_canvas_3660.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "tide_poster_a4.glb",
+              "usdz": "tide_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "tide_poster_a3.glb",
+              "usdz": "tide_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

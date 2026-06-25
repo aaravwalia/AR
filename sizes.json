@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "canvas", "name": "Canvas", "kind": "canvas", "frame": "oak",
+      "sizes": [
+        ["12×18", 12, 18, "in"],
+        ["18×24", 18, 24, "in"],
+        ["24×36", 24, 36, "in"],
+        ["30×48", 30, 48, "in"],
+        ["36×60", 36, 60, "in"]
+      ]
+    },
+    {
+      "id": "poster", "name": "Poster", "kind": "poster", "frame": "none",
+      "sizes": [
+        ["A4", 210, 297, "mm"],
+        ["A3", 297, 420, "mm"]
+      ]
+    }
+  ]
+}

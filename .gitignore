@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*_tex.png
+scene.usdc
+.DS_Store

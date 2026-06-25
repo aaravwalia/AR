@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>See it on your wall — Atelier</title>
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+<style>
+  :root{ --ink:#1C1B19; --panel:#26241F; --line:#33302A; --paper:#EDE9E1; --brass:#C8A871; --muted:#9A958B; }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  body{ background:var(--ink); color:var(--paper); min-height:100vh;
+        font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; -webkit-font-smoothing:antialiased; }
+  header{ display:flex; align-items:center; justify-content:space-between; padding:18px 20px; border-bottom:1px solid var(--line); }
+  .eyebrow{ font-size:10px; letter-spacing:.35em; text-transform:uppercase; color:var(--brass); margin-bottom:5px; }
+  h1{ font-family:Georgia,serif; font-size:23px; font-weight:500; line-height:1; }
+  .wrap{ max-width:780px; margin:0 auto; padding:20px; }
+  .stage{ position:relative; }
+  model-viewer{ width:100%; height:56vh; min-height:380px;
+      background:radial-gradient(circle at 50% 38%,#2b2925,#1a1916 70%); border:1px solid var(--line); border-radius:10px; --poster-color:transparent; }
+  .ar-btn{ position:absolute; left:50%; bottom:18px; transform:translateX(-50%); display:inline-flex; align-items:center; gap:9px;
+           padding:13px 22px; background:var(--brass); color:#1a1813; border:none; border-radius:99px; font-size:14px; font-weight:600; cursor:pointer; box-shadow:0 8px 24px rgba(0,0,0,.45); }
+  .ar-btn svg{ width:17px; height:17px; }
+  .row{ display:flex; flex-wrap:wrap; gap:18px; align-items:baseline; margin-top:18px; padding-top:18px; border-top:1px solid var(--line); }
+  .name{ font-family:Georgia,serif; font-size:21px; }
+  .spec{ font-family:ui-monospace,Menlo,monospace; font-size:13px; color:var(--brass); }
+  .block{ margin-top:22px; } .label{ font-size:10px; letter-spacing:.25em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
+  .thumbs{ display:flex; gap:10px; flex-wrap:wrap; }
+  .thumb{ width:58px; height:58px; border-radius:6px; background-size:cover; background-position:center; cursor:pointer; outline:1px solid var(--line); transition:.2s; }
+  .thumb.on{ outline:2px solid var(--brass); transform:scale(1.06); }
+  .pills{ display:flex; gap:8px; } .pill{ padding:8px 16px; border:1px solid var(--line); border-radius:99px; background:transparent; color:var(--muted); cursor:pointer; font-size:13px; }
+  .pill.on{ border-color:var(--brass); background:var(--panel); color:var(--paper); }
+  .sizes{ display:flex; gap:10px; flex-wrap:wrap; }
+  .size{ padding:10px 15px; border:1px solid var(--line); border-radius:8px; background:transparent; color:var(--muted); cursor:pointer; text-align:left; }
+  .size.on{ border-color:var(--brass); background:var(--panel); color:var(--paper); }
+  .size b{ display:block; font-size:14px; } .size span{ font-family:ui-monospace,monospace; font-size:11px; opacity:.8; }
+  .hint{ font-size:13px; color:var(--muted); line-height:1.6; margin-top:18px; }
+  #err{ display:none; background:#2a1f1c; border:1px solid #5a3a30; color:#e8c4b8; padding:14px 16px; border-radius:8px; margin-top:16px; font-size:13px; }
+</style>
+</head>
+<body>
+<header><div><div class="eyebrow">Atelier · Wall Studio</div><h1>See it on your wall</h1></div></header>
+<div class="wrap">
+  <div class="stage">
+    <model-viewer id="mv" alt="Print preview" ar ar-modes="webxr scene-viewer quick-look"
+      ar-placement="wall" ar-scale="fixed" camera-controls touch-action="pan-y" shadow-intensity="1" exposure="1.05" environment-image="neutral">
+      <button slot="ar-button" class="ar-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2"/><rect x="8" y="8" width="8" height="8" rx="1"/>
+        </svg> View on your wall
+      </button>
+    </model-viewer>
+  </div>
+  <div id="err">Couldn’t load <code>models/catalog.json</code>. Serve this folder over http (e.g. <code>python3 -m http.server</code> inside <code>web/</code>) or deploy it — opening the file directly blocks the fetch.</div>
+  <div class="row"><span class="name" id="pname"></span><span class="spec" id="pspec"></span></div>
+  <div class="block"><div class="label">Artwork</div><div class="thumbs" id="thumbs"></div></div>
+  <div class="block"><div class="label">Format</div><div class="pills" id="prods"></div></div>
+  <div class="block"><div class="label">Size</div><div class="sizes" id="sizes"></div></div>
+  <p class="hint">On a phone, tap <b>View on your wall</b> and aim at your wall — the print appears at the exact size you picked and stays locked there.</p>
+</div>
+<script type="module">
+const BASE = "models/";
+const $ = id => document.getElementById(id);
+let CAT, ai=0, pi=0, si=0;
+try { CAT = (await (await fetch(BASE+"catalog.json")).json()).artworks; }
+catch(e){ $("err").style.display="block"; throw e; }
+
+const unitSpec = s => s.unit==="in" ? `${s.w}\u2033 \u00d7 ${s.h}\u2033` : `${s.label} \u00b7 ${s.w} \u00d7 ${s.h} mm`;
+
+function apply(){
+  const art=CAT[ai], prod=art.products[pi], s=prod.sizes[si];
+  $("mv").src = BASE+s.glb;
+  $("mv").setAttribute("ios-src", BASE+s.usdz);
+  $("pname").textContent = art.name;
+  $("pspec").textContent = `${prod.name} \u00b7 ${unitSpec(s)}`;
+}
+function sizes(){
+  const ps=CAT[ai].products[pi].sizes; const el=$("sizes"); el.innerHTML="";
+  ps.forEach((s,i)=>{ const b=document.createElement("button"); b.className="size"+(i===si?" on":"");
+    b.innerHTML=`<b>${s.label}</b><span>${unitSpec(s)}</span>`; b.onclick=()=>{si=i;sizes();apply();}; el.appendChild(b); });
+}
+function prods(){
+  const el=$("prods"); el.innerHTML="";
+  CAT[ai].products.forEach((p,i)=>{ const b=document.createElement("button"); b.className="pill"+(i===pi?" on":"");
+    b.textContent=p.name; b.onclick=()=>{pi=i;si=0;prods();sizes();apply();}; el.appendChild(b); });
+}
+function thumbs(){
+  const el=$("thumbs"); el.innerHTML="";
+  CAT.forEach((art,i)=>{ const d=document.createElement("div"); d.className="thumb"+(i===ai?" on":"");
+    d.style.backgroundImage=`url(${BASE+art.thumb})`; d.title=art.name;
+    d.onclick=()=>{ai=i;pi=0;si=0;thumbs();prods();sizes();apply();}; el.appendChild(d); });
+}
+thumbs(); prods(); sizes(); apply();
+</script>
+</body>
+</html>

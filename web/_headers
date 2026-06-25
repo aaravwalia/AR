@@ -1,0 +1,6 @@
+/models/*.usdz
+  Content-Type: model/vnd.usdz+zip
+  Access-Control-Allow-Origin: *
+/models/*.glb
+  Content-Type: model/gltf-binary
+  Access-Control-Allow-Origin: *
