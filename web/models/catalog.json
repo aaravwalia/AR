@@ -1,9 +1,10 @@
 {
   "artworks": [
     {
-      "id": "bloom",
-      "name": "Bloom",
-      "thumb": "bloom_thumb.jpg",
+      "id": "electric-shout",
+      "name": "Electric Shout",
+      "suite": "After Hours Suite",
+      "thumb": "electric-shout_thumb.jpg",
       "products": [
         {
           "id": "canvas",
@@ -15,40 +16,40 @@
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "bloom_canvas_1218.glb",
-              "usdz": "bloom_canvas_1218.usdz"
+              "glb": "electric-shout_canvas_12-18.glb",
+              "usdz": "electric-shout_canvas_12-18.usdz"
             },
             {
               "label": "18\u00d724",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "bloom_canvas_1824.glb",
-              "usdz": "bloom_canvas_1824.usdz"
+              "glb": "electric-shout_canvas_18-24.glb",
+              "usdz": "electric-shout_canvas_18-24.usdz"
             },
             {
               "label": "24\u00d736",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "bloom_canvas_2436.glb",
-              "usdz": "bloom_canvas_2436.usdz"
+              "glb": "electric-shout_canvas_24-36.glb",
+              "usdz": "electric-shout_canvas_24-36.usdz"
             },
             {
               "label": "30\u00d748",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "bloom_canvas_3048.glb",
-              "usdz": "bloom_canvas_3048.usdz"
+              "glb": "electric-shout_canvas_30-48.glb",
+              "usdz": "electric-shout_canvas_30-48.usdz"
             },
             {
               "label": "36\u00d760",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "bloom_canvas_3660.glb",
-              "usdz": "bloom_canvas_3660.usdz"
+              "glb": "electric-shout_canvas_36-60.glb",
+              "usdz": "electric-shout_canvas_36-60.usdz"
             }
           ]
         },
@@ -62,25 +63,26 @@
               "w": 210,
               "h": 297,
               "unit": "mm",
-              "glb": "bloom_poster_a4.glb",
-              "usdz": "bloom_poster_a4.usdz"
+              "glb": "electric-shout_poster_a4.glb",
+              "usdz": "electric-shout_poster_a4.usdz"
             },
             {
               "label": "A3",
               "w": 297,
               "h": 420,
               "unit": "mm",
-              "glb": "bloom_poster_a3.glb",
-              "usdz": "bloom_poster_a3.usdz"
+              "glb": "electric-shout_poster_a3.glb",
+              "usdz": "electric-shout_poster_a3.usdz"
             }
           ]
         }
       ]
     },
     {
-      "id": "dunes",
-      "name": "Dunes",
-      "thumb": "dunes_thumb.jpg",
+      "id": "the-double-pour",
+      "name": "The Double Pour",
+      "suite": "After Hours Suite",
+      "thumb": "the-double-pour_thumb.jpg",
       "products": [
         {
           "id": "canvas",
@@ -92,40 +94,40 @@
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "dunes_canvas_1218.glb",
-              "usdz": "dunes_canvas_1218.usdz"
+              "glb": "the-double-pour_canvas_12-18.glb",
+              "usdz": "the-double-pour_canvas_12-18.usdz"
             },
             {
               "label": "18\u00d724",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "dunes_canvas_1824.glb",
-              "usdz": "dunes_canvas_1824.usdz"
+              "glb": "the-double-pour_canvas_18-24.glb",
+              "usdz": "the-double-pour_canvas_18-24.usdz"
             },
             {
               "label": "24\u00d736",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "dunes_canvas_2436.glb",
-              "usdz": "dunes_canvas_2436.usdz"
+              "glb": "the-double-pour_canvas_24-36.glb",
+              "usdz": "the-double-pour_canvas_24-36.usdz"
             },
             {
               "label": "30\u00d748",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "dunes_canvas_3048.glb",
-              "usdz": "dunes_canvas_3048.usdz"
+              "glb": "the-double-pour_canvas_30-48.glb",
+              "usdz": "the-double-pour_canvas_30-48.usdz"
             },
             {
               "label": "36\u00d760",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "dunes_canvas_3660.glb",
-              "usdz": "dunes_canvas_3660.usdz"
+              "glb": "the-double-pour_canvas_36-60.glb",
+              "usdz": "the-double-pour_canvas_36-60.usdz"
             }
           ]
         },
@@ -139,25 +141,26 @@
               "w": 210,
               "h": 297,
               "unit": "mm",
-              "glb": "dunes_poster_a4.glb",
-              "usdz": "dunes_poster_a4.usdz"
+              "glb": "the-double-pour_poster_a4.glb",
+              "usdz": "the-double-pour_poster_a4.usdz"
             },
             {
               "label": "A3",
               "w": 297,
               "h": 420,
               "unit": "mm",
-              "glb": "dunes_poster_a3.glb",
-              "usdz": "dunes_poster_a3.usdz"
+              "glb": "the-double-pour_poster_a3.glb",
+              "usdz": "the-double-pour_poster_a3.usdz"
             }
           ]
         }
       ]
     },
     {
-      "id": "tide",
-      "name": "Tide",
-      "thumb": "tide_thumb.jpg",
+      "id": "braided-bloom",
+      "name": "Braided Bloom",
+      "suite": "Botanical Muse",
+      "thumb": "braided-bloom_thumb.jpg",
       "products": [
         {
           "id": "canvas",
@@ -169,40 +172,40 @@
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "tide_canvas_1218.glb",
-              "usdz": "tide_canvas_1218.usdz"
+              "glb": "braided-bloom_canvas_12-18.glb",
+              "usdz": "braided-bloom_canvas_12-18.usdz"
             },
             {
               "label": "18\u00d724",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "tide_canvas_1824.glb",
-              "usdz": "tide_canvas_1824.usdz"
+              "glb": "braided-bloom_canvas_18-24.glb",
+              "usdz": "braided-bloom_canvas_18-24.usdz"
             },
             {
               "label": "24\u00d736",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "tide_canvas_2436.glb",
-              "usdz": "tide_canvas_2436.usdz"
+              "glb": "braided-bloom_canvas_24-36.glb",
+              "usdz": "braided-bloom_canvas_24-36.usdz"
             },
             {
               "label": "30\u00d748",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "tide_canvas_3048.glb",
-              "usdz": "tide_canvas_3048.usdz"
+              "glb": "braided-bloom_canvas_30-48.glb",
+              "usdz": "braided-bloom_canvas_30-48.usdz"
             },
             {
               "label": "36\u00d760",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "tide_canvas_3660.glb",
-              "usdz": "tide_canvas_3660.usdz"
+              "glb": "braided-bloom_canvas_36-60.glb",
+              "usdz": "braided-bloom_canvas_36-60.usdz"
             }
           ]
         },
@@ -216,16 +219,406 @@
               "w": 210,
               "h": 297,
               "unit": "mm",
-              "glb": "tide_poster_a4.glb",
-              "usdz": "tide_poster_a4.usdz"
+              "glb": "braided-bloom_poster_a4.glb",
+              "usdz": "braided-bloom_poster_a4.usdz"
             },
             {
               "label": "A3",
               "w": 297,
               "h": 420,
               "unit": "mm",
-              "glb": "tide_poster_a3.glb",
-              "usdz": "tide_poster_a3.usdz"
+              "glb": "braided-bloom_poster_a3.glb",
+              "usdz": "braided-bloom_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flora-obscura",
+      "name": "Flora Obscura",
+      "suite": "Botanical Muse",
+      "thumb": "flora-obscura_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "flora-obscura_canvas_12-18.glb",
+              "usdz": "flora-obscura_canvas_12-18.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "flora-obscura_canvas_18-24.glb",
+              "usdz": "flora-obscura_canvas_18-24.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "flora-obscura_canvas_24-36.glb",
+              "usdz": "flora-obscura_canvas_24-36.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "flora-obscura_canvas_30-48.glb",
+              "usdz": "flora-obscura_canvas_30-48.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "flora-obscura_canvas_36-60.glb",
+              "usdz": "flora-obscura_canvas_36-60.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "flora-obscura_poster_a4.glb",
+              "usdz": "flora-obscura_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "flora-obscura_poster_a3.glb",
+              "usdz": "flora-obscura_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "azure-giant",
+      "name": "Azure Giant",
+      "suite": "Celestial Frontier",
+      "thumb": "azure-giant_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "azure-giant_canvas_12-18.glb",
+              "usdz": "azure-giant_canvas_12-18.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "azure-giant_canvas_18-24.glb",
+              "usdz": "azure-giant_canvas_18-24.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "azure-giant_canvas_24-36.glb",
+              "usdz": "azure-giant_canvas_24-36.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "azure-giant_canvas_30-48.glb",
+              "usdz": "azure-giant_canvas_30-48.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "azure-giant_canvas_36-60.glb",
+              "usdz": "azure-giant_canvas_36-60.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "azure-giant_poster_a4.glb",
+              "usdz": "azure-giant_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "azure-giant_poster_a3.glb",
+              "usdz": "azure-giant_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crimson-horizon",
+      "name": "Crimson Horizon",
+      "suite": "Celestial Frontier",
+      "thumb": "crimson-horizon_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "crimson-horizon_canvas_12-18.glb",
+              "usdz": "crimson-horizon_canvas_12-18.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "crimson-horizon_canvas_18-24.glb",
+              "usdz": "crimson-horizon_canvas_18-24.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "crimson-horizon_canvas_24-36.glb",
+              "usdz": "crimson-horizon_canvas_24-36.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "crimson-horizon_canvas_30-48.glb",
+              "usdz": "crimson-horizon_canvas_30-48.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "crimson-horizon_canvas_36-60.glb",
+              "usdz": "crimson-horizon_canvas_36-60.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "crimson-horizon_poster_a4.glb",
+              "usdz": "crimson-horizon_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "crimson-horizon_poster_a3.glb",
+              "usdz": "crimson-horizon_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gilded-horizon",
+      "name": "Gilded Horizon",
+      "suite": "Ethereal Gaze",
+      "thumb": "gilded-horizon_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "gilded-horizon_canvas_12-18.glb",
+              "usdz": "gilded-horizon_canvas_12-18.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "gilded-horizon_canvas_18-24.glb",
+              "usdz": "gilded-horizon_canvas_18-24.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "gilded-horizon_canvas_24-36.glb",
+              "usdz": "gilded-horizon_canvas_24-36.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "gilded-horizon_canvas_30-48.glb",
+              "usdz": "gilded-horizon_canvas_30-48.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "gilded-horizon_canvas_36-60.glb",
+              "usdz": "gilded-horizon_canvas_36-60.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "gilded-horizon_poster_a4.glb",
+              "usdz": "gilded-horizon_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "gilded-horizon_poster_a3.glb",
+              "usdz": "gilded-horizon_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obsidian-ember",
+      "name": "Obsidian Ember",
+      "suite": "Ethereal Gaze",
+      "thumb": "obsidian-ember_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "oak",
+          "sizes": [
+            {
+              "label": "12\u00d718",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "obsidian-ember_canvas_12-18.glb",
+              "usdz": "obsidian-ember_canvas_12-18.usdz"
+            },
+            {
+              "label": "18\u00d724",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "obsidian-ember_canvas_18-24.glb",
+              "usdz": "obsidian-ember_canvas_18-24.usdz"
+            },
+            {
+              "label": "24\u00d736",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "obsidian-ember_canvas_24-36.glb",
+              "usdz": "obsidian-ember_canvas_24-36.usdz"
+            },
+            {
+              "label": "30\u00d748",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "obsidian-ember_canvas_30-48.glb",
+              "usdz": "obsidian-ember_canvas_30-48.usdz"
+            },
+            {
+              "label": "36\u00d760",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "obsidian-ember_canvas_36-60.glb",
+              "usdz": "obsidian-ember_canvas_36-60.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "obsidian-ember_poster_a4.glb",
+              "usdz": "obsidian-ember_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "obsidian-ember_poster_a3.glb",
+              "usdz": "obsidian-ember_poster_a3.usdz"
             }
           ]
         }
