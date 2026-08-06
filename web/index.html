@@ -89,6 +89,21 @@ function thumbs(){
     d.style.backgroundImage=`url(${BASE+art.thumb})`; d.title=art.name;
     d.onclick=()=>{ai=i;pi=0;si=0;thumbs();prods();sizes();apply();}; el.appendChild(d); });
 }
+// Deep-link from the app: ?art=<slug>&format=<canvas|poster>&size=<label>
+// preselects the exact product / format / size (all params optional).
+(() => {
+  const P = new URLSearchParams(location.search);
+  const art = P.get("art");
+  if (!art) return;
+  const norm = s => (s||"").toLowerCase().replace(/[×x]/g,"x").replace(/\s+/g,"");
+  const i = CAT.findIndex(a => a.id === art);
+  if (i < 0) return;
+  ai = i;
+  const fmt = norm(P.get("format"));
+  if (fmt){ const j = CAT[ai].products.findIndex(p => norm(p.id)===fmt || norm(p.name)===fmt); if (j>=0) pi=j; }
+  const sz = norm(P.get("size"));
+  if (sz){ const k = CAT[ai].products[pi].sizes.findIndex(s => norm(s.label)===sz); if (k>=0) si=k; }
+})();
 thumbs(); prods(); sizes(); apply();
 </script>
 </body>
