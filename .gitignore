@@ -1,5 +1,10 @@
 __pycache__/
 *.pyc
 *_tex.png
+*_tex.jpg
 scene.usdc
 .DS_Store
+web/models/
+ar_out/
+ar_local/
+ar_build.log

@@ -90,12 +90,11 @@ function thumbs(){
     d.onclick=()=>{ai=i;pi=0;si=0;thumbs();prods();sizes();apply();}; el.appendChild(d); });
 }
 // Deep-link from the app: ?art=<slug>&format=<canvas|poster>&size=<label>
-// preselects the exact product / format / size (all params optional).
 (() => {
   const P = new URLSearchParams(location.search);
   const art = P.get("art");
   if (!art) return;
-  const norm = s => (s||"").toLowerCase().replace(/[×x]/g,"x").replace(/\s+/g,"");
+  const norm = s => (s||"").toLowerCase().replace(/[\u00d7x]/g,"x").replace(/\s+/g,"");
   const i = CAT.findIndex(a => a.id === art);
   if (i < 0) return;
   ai = i;
