@@ -57,6 +57,11 @@ def main():
                 sizes_out = []
                 for label, w, h, unit in prod["sizes"]:
                     cropped = p2a.center_crop_to_ratio(src, w, h)
+                    # Downscale the embedded texture so models stay small (~1MB
+                    # instead of ~28MB). 1600px on the long edge is plenty sharp
+                    # for AR and keeps the whole catalog deployable.
+                    cropped = cropped.copy()
+                    cropped.thumbnail((1600, 1600))
                     w_m, h_m = w * p2a.UNIT_M[unit], h * p2a.UNIT_M[unit]
                     tag = f"{base}_{prod['id']}_{slug(label)}"
                     tex = os.path.join(a.out, tag + "_tex.png")

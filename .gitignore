@@ -3,3 +3,11 @@ __pycache__/
 *_tex.png
 scene.usdc
 .DS_Store
+.vercel
+.env*
+
+# Generated AR models: 2.7 GB of .glb/.usdz plus thumbnails, rebuilt by
+# build_missing.py from the Cloudinary masters. The catalog that indexes them
+# is small and is the contract the website reads, so that one is tracked.
+web/models/*
+!web/models/catalog.json

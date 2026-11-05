@@ -122,6 +122,9 @@ def export_usdz(tex_path, out_usdz, w_m, h_m, frame_key, kind):
     hw, hh = w_m/2, h_m/2
     mesh.CreatePointsAttr([(-hw,-hh,art_z),(hw,-hh,art_z),(hw,hh,art_z),(-hw,hh,art_z)])
     mesh.CreateFaceVertexCountsAttr([4]); mesh.CreateFaceVertexIndicesAttr([0,1,2,3])
+    # CRITICAL: without this, Quick Look applies Catmull-Clark subdivision by
+    # default and rounds the flat quad into an OVAL. Force a flat polygon.
+    mesh.CreateSubdivisionSchemeAttr(UsdGeom.Tokens.none)
     mesh.CreateExtentAttr([(-hw,-hh,0),(hw,hh,art_z)])
     pv = UsdGeom.PrimvarsAPI(mesh).CreatePrimvar("st", Sdf.ValueTypeNames.TexCoord2fArray, UsdGeom.Tokens.varying)
     pv.Set([(0,0),(1,0),(1,1),(0,1)])

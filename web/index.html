@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>See it on your wall — Atelier</title>
+<title>See it on your wall — GPSFDK</title>
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 <style>
   :root{ --ink:#1C1B19; --panel:#26241F; --line:#33302A; --paper:#EDE9E1; --brass:#C8A871; --muted:#9A958B; }
@@ -15,6 +15,13 @@
   h1{ font-family:Georgia,serif; font-size:23px; font-weight:500; line-height:1; }
   .wrap{ max-width:780px; margin:0 auto; padding:20px; }
   .stage{ position:relative; }
+  /* ?ar=1: hide the browsing furniture while AR opens. */
+  html.autoar header,
+  html.autoar .block,
+  html.autoar .row,
+  html.autoar .hint{ display:none; }
+  html.autoar .ar-btn{ opacity:0; pointer-events:none; }
+  html.needstap .ar-btn{ opacity:1; pointer-events:auto; }
   model-viewer{ width:100%; height:56vh; min-height:380px;
       background:radial-gradient(circle at 50% 38%,#2b2925,#1a1916 70%); border:1px solid var(--line); border-radius:10px; --poster-color:transparent; }
   .ar-btn{ position:absolute; left:50%; bottom:18px; transform:translateX(-50%); display:inline-flex; align-items:center; gap:9px;
@@ -38,7 +45,7 @@
 </style>
 </head>
 <body>
-<header><div><div class="eyebrow">Atelier · Wall Studio</div><h1>See it on your wall</h1></div></header>
+<header><div><div class="eyebrow">GPSFDK · WALL STUDIO</div><h1>See it on your wall</h1></div></header>
 <div class="wrap">
   <div class="stage">
     <model-viewer id="mv" alt="Print preview" ar ar-modes="webxr scene-viewer quick-look"
@@ -89,7 +96,99 @@ function thumbs(){
     d.style.backgroundImage=`url(${BASE+art.thumb})`; d.title=art.name;
     d.onclick=()=>{ai=i;pi=0;si=0;thumbs();prods();sizes();apply();}; el.appendChild(d); });
 }
+// Deep-link from the app: ?art=<slug>&format=<canvas|poster>&size=<label>
+(() => {
+  const P = new URLSearchParams(location.search);
+  const art = P.get("art");
+  if (!art) return;
+  const norm = s => (s||"").toLowerCase().replace(/[\u00d7x]/g,"x").replace(/\s+/g,"");
+  const i = CAT.findIndex(a => a.id === art);
+  if (i < 0) return;
+  ai = i;
+  const fmt = norm(P.get("format"));
+  if (fmt){ const j = CAT[ai].products.findIndex(p => norm(p.id)===fmt || norm(p.name)===fmt); if (j>=0) pi=j; }
+  const sz = norm(P.get("size"));
+  if (sz){ const k = CAT[ai].products[pi].sizes.findIndex(s => norm(s.label)===sz); if (k>=0) si=k; }
+})();
 thumbs(); prods(); sizes(); apply();
+
+/*
+  ?ar=1 — opened from the app, which wants AR itself, not a web page.
+
+  Android cannot launch Scene Viewer straight from React Native: an implicit
+  intent lands in Chrome and bounces, and expo-intent-launcher cannot set an
+  intent's package. So the app opens this page and the page does the launch,
+  which is what <model-viewer> is for. The page strips itself back to a
+  loading state so it reads as a step on the way to AR rather than a detour.
+*/
+(() => {
+  if (new URLSearchParams(location.search).get("ar") !== "1") return;
+  document.documentElement.classList.add("autoar");
+  const mv = $("mv");
+
+  /*
+    Scene Viewer first when the app sent us.
+
+    model-viewer's default order prefers WebXR, and WebXR started inside the
+    app's in-app browser tab goes black and dies: it needs a camera permission
+    that tab cannot prompt for. Scene Viewer is a separate Google app, so it
+    gets its own permissions and its own window. In a normal browser tab the
+    default order is fine, which is why this only changes the ?ar=1 case.
+  */
+  mv.setAttribute("ar-modes", "scene-viewer quick-look webxr");
+  let launched = false;
+
+  /*
+    On Android, go to Scene Viewer by URL rather than asking model-viewer to
+    pick a mode. `intent://` is the form a browser understands — it names
+    Google's package explicitly, which is the thing React Native cannot do —
+    and `browser_fallback_url` returns here, without `ar=1`, if the phone has
+    no Scene Viewer, so a dead end shows the piece in 3D instead of nothing.
+  */
+  const sceneViewerIntent = () => {
+    const file = new URL(mv.getAttribute("src"), location.href).href;
+    const title = $("pname").textContent || "GPSFDK";
+    const back = location.href.replace(/([?&])ar=1(&|$)/, "$1").replace(/[?&]$/, "");
+    return (
+      "intent://arvr.google.com/scene-viewer/1.0" +
+      `?file=${encodeURIComponent(file)}&mode=ar_preferred&title=${encodeURIComponent(title)}` +
+      "#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;" +
+      `S.browser_fallback_url=${encodeURIComponent(back)};end;`
+    );
+  };
+
+  const go = async (fromTap) => {
+    if (launched) return;
+    if (/Android/i.test(navigator.userAgent)) {
+      /*
+        Chrome only lets a page hand off to another app when a real finger
+        caused it. The automatic attempt on load is therefore allowed to fail
+        silently — `launched` stays false so the next tap tries again, and the
+        button below is visible from the start rather than after a delay.
+      */
+      if (fromTap) launched = true;
+      location.href = sceneViewerIntent();
+      return;
+    }
+    try {
+      await mv.activateAR();
+      launched = true;
+    } catch (e) {
+      // Some browsers only allow the AR launch from a real tap; the button
+      // below stays, and the next touch tries again.
+      document.documentElement.classList.add("needstap");
+    }
+  };
+
+  // The button is there from the first frame, because the automatic attempt
+  // is the one allowed to fail. A tap always works.
+  document.documentElement.classList.add("needstap");
+  mv.querySelector(".ar-btn")?.addEventListener("click", () => go(true));
+  document.addEventListener("click", () => go(true));
+
+  if (mv.loaded) go(false);
+  else mv.addEventListener("load", () => go(false), { once: true });
+})();
 </script>
 </body>
 </html>
