@@ -1,0 +1,24 @@
+# What the CLI uploads. Without this it falls back to .gitignore, which
+# excludes web/models — and that is the entire site.
+#
+# The deployed root is web/, so everything the viewer needs lives there: the
+# page, vercel.json, and the models with their catalog.
+
+# Model generation: inputs, scratch output and the build scripts
+ar_out/
+prints/
+_orphans_old_naming/
+__pycache__/
+*.py
+*_tex.png
+*_tex.jpg
+scene.usdc
+ar_build.log
+
+# Superseded copies and notes
+web/models/catalog.backup.json
+*.md
+sizes.json
+requirements.txt
+build.sh
+ArViewer.jsx

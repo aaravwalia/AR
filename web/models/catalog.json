@@ -2263,84 +2263,6 @@
       ]
     },
     {
-      "id": "constructivist-balance",
-      "name": "Constructivist Balance",
-      "suite": "Ink   Interval",
-      "thumb": "constructivist-balance_thumb.jpg",
-      "products": [
-        {
-          "id": "canvas",
-          "name": "Canvas",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "12x18",
-              "w": 12,
-              "h": 18,
-              "unit": "in",
-              "glb": "constructivist-balance_canvas_12x18.glb",
-              "usdz": "constructivist-balance_canvas_12x18.usdz"
-            },
-            {
-              "label": "18x24",
-              "w": 18,
-              "h": 24,
-              "unit": "in",
-              "glb": "constructivist-balance_canvas_18x24.glb",
-              "usdz": "constructivist-balance_canvas_18x24.usdz"
-            },
-            {
-              "label": "24x36",
-              "w": 24,
-              "h": 36,
-              "unit": "in",
-              "glb": "constructivist-balance_canvas_24x36.glb",
-              "usdz": "constructivist-balance_canvas_24x36.usdz"
-            },
-            {
-              "label": "30x48",
-              "w": 30,
-              "h": 48,
-              "unit": "in",
-              "glb": "constructivist-balance_canvas_30x48.glb",
-              "usdz": "constructivist-balance_canvas_30x48.usdz"
-            },
-            {
-              "label": "36x60",
-              "w": 36,
-              "h": 60,
-              "unit": "in",
-              "glb": "constructivist-balance_canvas_36x60.glb",
-              "usdz": "constructivist-balance_canvas_36x60.usdz"
-            }
-          ]
-        },
-        {
-          "id": "poster",
-          "name": "Poster",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "A4",
-              "w": 210,
-              "h": 297,
-              "unit": "mm",
-              "glb": "constructivist-balance_poster_a4.glb",
-              "usdz": "constructivist-balance_poster_a4.usdz"
-            },
-            {
-              "label": "A3",
-              "w": 297,
-              "h": 420,
-              "unit": "mm",
-              "glb": "constructivist-balance_poster_a3.glb",
-              "usdz": "constructivist-balance_poster_a3.usdz"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ethereal-drift",
       "name": "Ethereal Drift",
       "suite": "Ink   Interval",
@@ -2413,162 +2335,6 @@
               "unit": "mm",
               "glb": "ethereal-drift_poster_a3.glb",
               "usdz": "ethereal-drift_poster_a3.usdz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fragmented-soul",
-      "name": "Fragmented Soul",
-      "suite": "Ink   Interval",
-      "thumb": "fragmented-soul_thumb.jpg",
-      "products": [
-        {
-          "id": "canvas",
-          "name": "Canvas",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "12x18",
-              "w": 12,
-              "h": 18,
-              "unit": "in",
-              "glb": "fragmented-soul_canvas_12x18.glb",
-              "usdz": "fragmented-soul_canvas_12x18.usdz"
-            },
-            {
-              "label": "18x24",
-              "w": 18,
-              "h": 24,
-              "unit": "in",
-              "glb": "fragmented-soul_canvas_18x24.glb",
-              "usdz": "fragmented-soul_canvas_18x24.usdz"
-            },
-            {
-              "label": "24x36",
-              "w": 24,
-              "h": 36,
-              "unit": "in",
-              "glb": "fragmented-soul_canvas_24x36.glb",
-              "usdz": "fragmented-soul_canvas_24x36.usdz"
-            },
-            {
-              "label": "30x48",
-              "w": 30,
-              "h": 48,
-              "unit": "in",
-              "glb": "fragmented-soul_canvas_30x48.glb",
-              "usdz": "fragmented-soul_canvas_30x48.usdz"
-            },
-            {
-              "label": "36x60",
-              "w": 36,
-              "h": 60,
-              "unit": "in",
-              "glb": "fragmented-soul_canvas_36x60.glb",
-              "usdz": "fragmented-soul_canvas_36x60.usdz"
-            }
-          ]
-        },
-        {
-          "id": "poster",
-          "name": "Poster",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "A4",
-              "w": 210,
-              "h": 297,
-              "unit": "mm",
-              "glb": "fragmented-soul_poster_a4.glb",
-              "usdz": "fragmented-soul_poster_a4.usdz"
-            },
-            {
-              "label": "A3",
-              "w": 297,
-              "h": 420,
-              "unit": "mm",
-              "glb": "fragmented-soul_poster_a3.glb",
-              "usdz": "fragmented-soul_poster_a3.usdz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "neural-network",
-      "name": "Neural Network",
-      "suite": "Ink   Interval",
-      "thumb": "neural-network_thumb.jpg",
-      "products": [
-        {
-          "id": "canvas",
-          "name": "Canvas",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "12x18",
-              "w": 12,
-              "h": 18,
-              "unit": "in",
-              "glb": "neural-network_canvas_12x18.glb",
-              "usdz": "neural-network_canvas_12x18.usdz"
-            },
-            {
-              "label": "18x24",
-              "w": 18,
-              "h": 24,
-              "unit": "in",
-              "glb": "neural-network_canvas_18x24.glb",
-              "usdz": "neural-network_canvas_18x24.usdz"
-            },
-            {
-              "label": "24x36",
-              "w": 24,
-              "h": 36,
-              "unit": "in",
-              "glb": "neural-network_canvas_24x36.glb",
-              "usdz": "neural-network_canvas_24x36.usdz"
-            },
-            {
-              "label": "30x48",
-              "w": 30,
-              "h": 48,
-              "unit": "in",
-              "glb": "neural-network_canvas_30x48.glb",
-              "usdz": "neural-network_canvas_30x48.usdz"
-            },
-            {
-              "label": "36x60",
-              "w": 36,
-              "h": 60,
-              "unit": "in",
-              "glb": "neural-network_canvas_36x60.glb",
-              "usdz": "neural-network_canvas_36x60.usdz"
-            }
-          ]
-        },
-        {
-          "id": "poster",
-          "name": "Poster",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "A4",
-              "w": 210,
-              "h": 297,
-              "unit": "mm",
-              "glb": "neural-network_poster_a4.glb",
-              "usdz": "neural-network_poster_a4.usdz"
-            },
-            {
-              "label": "A3",
-              "w": 297,
-              "h": 420,
-              "unit": "mm",
-              "glb": "neural-network_poster_a3.glb",
-              "usdz": "neural-network_poster_a3.usdz"
             }
           ]
         }
@@ -2653,84 +2419,6 @@
       ]
     },
     {
-      "id": "the-red-catalyst",
-      "name": "The Red Catalyst",
-      "suite": "Ink   Interval",
-      "thumb": "the-red-catalyst_thumb.jpg",
-      "products": [
-        {
-          "id": "canvas",
-          "name": "Canvas",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "12x18",
-              "w": 12,
-              "h": 18,
-              "unit": "in",
-              "glb": "the-red-catalyst_canvas_12x18.glb",
-              "usdz": "the-red-catalyst_canvas_12x18.usdz"
-            },
-            {
-              "label": "18x24",
-              "w": 18,
-              "h": 24,
-              "unit": "in",
-              "glb": "the-red-catalyst_canvas_18x24.glb",
-              "usdz": "the-red-catalyst_canvas_18x24.usdz"
-            },
-            {
-              "label": "24x36",
-              "w": 24,
-              "h": 36,
-              "unit": "in",
-              "glb": "the-red-catalyst_canvas_24x36.glb",
-              "usdz": "the-red-catalyst_canvas_24x36.usdz"
-            },
-            {
-              "label": "30x48",
-              "w": 30,
-              "h": 48,
-              "unit": "in",
-              "glb": "the-red-catalyst_canvas_30x48.glb",
-              "usdz": "the-red-catalyst_canvas_30x48.usdz"
-            },
-            {
-              "label": "36x60",
-              "w": 36,
-              "h": 60,
-              "unit": "in",
-              "glb": "the-red-catalyst_canvas_36x60.glb",
-              "usdz": "the-red-catalyst_canvas_36x60.usdz"
-            }
-          ]
-        },
-        {
-          "id": "poster",
-          "name": "Poster",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "A4",
-              "w": 210,
-              "h": 297,
-              "unit": "mm",
-              "glb": "the-red-catalyst_poster_a4.glb",
-              "usdz": "the-red-catalyst_poster_a4.usdz"
-            },
-            {
-              "label": "A3",
-              "w": 297,
-              "h": 420,
-              "unit": "mm",
-              "glb": "the-red-catalyst_poster_a3.glb",
-              "usdz": "the-red-catalyst_poster_a3.usdz"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "the-scriptorium",
       "name": "The Scriptorium",
       "suite": "Ink   Interval",
@@ -2803,84 +2491,6 @@
               "unit": "mm",
               "glb": "the-scriptorium_poster_a3.glb",
               "usdz": "the-scriptorium_poster_a3.usdz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "the-sentinel",
-      "name": "The Sentinel",
-      "suite": "Ink   Interval",
-      "thumb": "the-sentinel_thumb.jpg",
-      "products": [
-        {
-          "id": "canvas",
-          "name": "Canvas",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "12x18",
-              "w": 12,
-              "h": 18,
-              "unit": "in",
-              "glb": "the-sentinel_canvas_12x18.glb",
-              "usdz": "the-sentinel_canvas_12x18.usdz"
-            },
-            {
-              "label": "18x24",
-              "w": 18,
-              "h": 24,
-              "unit": "in",
-              "glb": "the-sentinel_canvas_18x24.glb",
-              "usdz": "the-sentinel_canvas_18x24.usdz"
-            },
-            {
-              "label": "24x36",
-              "w": 24,
-              "h": 36,
-              "unit": "in",
-              "glb": "the-sentinel_canvas_24x36.glb",
-              "usdz": "the-sentinel_canvas_24x36.usdz"
-            },
-            {
-              "label": "30x48",
-              "w": 30,
-              "h": 48,
-              "unit": "in",
-              "glb": "the-sentinel_canvas_30x48.glb",
-              "usdz": "the-sentinel_canvas_30x48.usdz"
-            },
-            {
-              "label": "36x60",
-              "w": 36,
-              "h": 60,
-              "unit": "in",
-              "glb": "the-sentinel_canvas_36x60.glb",
-              "usdz": "the-sentinel_canvas_36x60.usdz"
-            }
-          ]
-        },
-        {
-          "id": "poster",
-          "name": "Poster",
-          "frame": "none",
-          "sizes": [
-            {
-              "label": "A4",
-              "w": 210,
-              "h": 297,
-              "unit": "mm",
-              "glb": "the-sentinel_poster_a4.glb",
-              "usdz": "the-sentinel_poster_a4.usdz"
-            },
-            {
-              "label": "A3",
-              "w": 297,
-              "h": 420,
-              "unit": "mm",
-              "glb": "the-sentinel_poster_a3.glb",
-              "usdz": "the-sentinel_poster_a3.usdz"
             }
           ]
         }
@@ -6093,47 +5703,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "cotton-candy-catwalk_canvas_12-18.glb",
-              "usdz": "cotton-candy-catwalk_canvas_12-18.usdz"
+              "glb": "cotton-candy-catwalk_canvas_12x18.glb",
+              "usdz": "cotton-candy-catwalk_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "cotton-candy-catwalk_canvas_18-24.glb",
-              "usdz": "cotton-candy-catwalk_canvas_18-24.usdz"
+              "glb": "cotton-candy-catwalk_canvas_18x24.glb",
+              "usdz": "cotton-candy-catwalk_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "cotton-candy-catwalk_canvas_24-36.glb",
-              "usdz": "cotton-candy-catwalk_canvas_24-36.usdz"
+              "glb": "cotton-candy-catwalk_canvas_24x36.glb",
+              "usdz": "cotton-candy-catwalk_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "cotton-candy-catwalk_canvas_30-48.glb",
-              "usdz": "cotton-candy-catwalk_canvas_30-48.usdz"
+              "glb": "cotton-candy-catwalk_canvas_30x48.glb",
+              "usdz": "cotton-candy-catwalk_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "cotton-candy-catwalk_canvas_36-60.glb",
-              "usdz": "cotton-candy-catwalk_canvas_36-60.usdz"
+              "glb": "cotton-candy-catwalk_canvas_36x60.glb",
+              "usdz": "cotton-candy-catwalk_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "cotton-candy-catwalk_canvas_12x12.glb",
+              "usdz": "cotton-candy-catwalk_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "cotton-candy-catwalk_canvas_18x18.glb",
+              "usdz": "cotton-candy-catwalk_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "cotton-candy-catwalk_canvas_24x24.glb",
+              "usdz": "cotton-candy-catwalk_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "cotton-candy-catwalk_canvas_36x36.glb",
+              "usdz": "cotton-candy-catwalk_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "cotton-candy-catwalk_canvas_48x48.glb",
+              "usdz": "cotton-candy-catwalk_canvas_48x48.usdz"
             }
           ]
         },
@@ -6171,47 +5821,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "golden-hour-stance_canvas_12-18.glb",
-              "usdz": "golden-hour-stance_canvas_12-18.usdz"
+              "glb": "golden-hour-stance_canvas_12x18.glb",
+              "usdz": "golden-hour-stance_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "golden-hour-stance_canvas_18-24.glb",
-              "usdz": "golden-hour-stance_canvas_18-24.usdz"
+              "glb": "golden-hour-stance_canvas_18x24.glb",
+              "usdz": "golden-hour-stance_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "golden-hour-stance_canvas_24-36.glb",
-              "usdz": "golden-hour-stance_canvas_24-36.usdz"
+              "glb": "golden-hour-stance_canvas_24x36.glb",
+              "usdz": "golden-hour-stance_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "golden-hour-stance_canvas_30-48.glb",
-              "usdz": "golden-hour-stance_canvas_30-48.usdz"
+              "glb": "golden-hour-stance_canvas_30x48.glb",
+              "usdz": "golden-hour-stance_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "golden-hour-stance_canvas_36-60.glb",
-              "usdz": "golden-hour-stance_canvas_36-60.usdz"
+              "glb": "golden-hour-stance_canvas_36x60.glb",
+              "usdz": "golden-hour-stance_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "golden-hour-stance_canvas_12x12.glb",
+              "usdz": "golden-hour-stance_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "golden-hour-stance_canvas_18x18.glb",
+              "usdz": "golden-hour-stance_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "golden-hour-stance_canvas_24x24.glb",
+              "usdz": "golden-hour-stance_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "golden-hour-stance_canvas_36x36.glb",
+              "usdz": "golden-hour-stance_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "golden-hour-stance_canvas_48x48.glb",
+              "usdz": "golden-hour-stance_canvas_48x48.usdz"
             }
           ]
         },
@@ -6249,47 +5939,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "out-of-office_canvas_12-18.glb",
-              "usdz": "out-of-office_canvas_12-18.usdz"
+              "glb": "out-of-office_canvas_12x18.glb",
+              "usdz": "out-of-office_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "out-of-office_canvas_18-24.glb",
-              "usdz": "out-of-office_canvas_18-24.usdz"
+              "glb": "out-of-office_canvas_18x24.glb",
+              "usdz": "out-of-office_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "out-of-office_canvas_24-36.glb",
-              "usdz": "out-of-office_canvas_24-36.usdz"
+              "glb": "out-of-office_canvas_24x36.glb",
+              "usdz": "out-of-office_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "out-of-office_canvas_30-48.glb",
-              "usdz": "out-of-office_canvas_30-48.usdz"
+              "glb": "out-of-office_canvas_30x48.glb",
+              "usdz": "out-of-office_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "out-of-office_canvas_36-60.glb",
-              "usdz": "out-of-office_canvas_36-60.usdz"
+              "glb": "out-of-office_canvas_36x60.glb",
+              "usdz": "out-of-office_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "out-of-office_canvas_12x12.glb",
+              "usdz": "out-of-office_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "out-of-office_canvas_18x18.glb",
+              "usdz": "out-of-office_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "out-of-office_canvas_24x24.glb",
+              "usdz": "out-of-office_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "out-of-office_canvas_36x36.glb",
+              "usdz": "out-of-office_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "out-of-office_canvas_48x48.glb",
+              "usdz": "out-of-office_canvas_48x48.usdz"
             }
           ]
         },
@@ -6327,47 +6057,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "pink-paradise_canvas_12-18.glb",
-              "usdz": "pink-paradise_canvas_12-18.usdz"
+              "glb": "pink-paradise_canvas_12x18.glb",
+              "usdz": "pink-paradise_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "pink-paradise_canvas_18-24.glb",
-              "usdz": "pink-paradise_canvas_18-24.usdz"
+              "glb": "pink-paradise_canvas_18x24.glb",
+              "usdz": "pink-paradise_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "pink-paradise_canvas_24-36.glb",
-              "usdz": "pink-paradise_canvas_24-36.usdz"
+              "glb": "pink-paradise_canvas_24x36.glb",
+              "usdz": "pink-paradise_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "pink-paradise_canvas_30-48.glb",
-              "usdz": "pink-paradise_canvas_30-48.usdz"
+              "glb": "pink-paradise_canvas_30x48.glb",
+              "usdz": "pink-paradise_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "pink-paradise_canvas_36-60.glb",
-              "usdz": "pink-paradise_canvas_36-60.usdz"
+              "glb": "pink-paradise_canvas_36x60.glb",
+              "usdz": "pink-paradise_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "pink-paradise_canvas_12x12.glb",
+              "usdz": "pink-paradise_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "pink-paradise_canvas_18x18.glb",
+              "usdz": "pink-paradise_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "pink-paradise_canvas_24x24.glb",
+              "usdz": "pink-paradise_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "pink-paradise_canvas_36x36.glb",
+              "usdz": "pink-paradise_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "pink-paradise_canvas_48x48.glb",
+              "usdz": "pink-paradise_canvas_48x48.usdz"
             }
           ]
         },
@@ -6405,47 +6175,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-azure-alpha_canvas_12-18.glb",
-              "usdz": "the-azure-alpha_canvas_12-18.usdz"
+              "glb": "the-azure-alpha_canvas_12x18.glb",
+              "usdz": "the-azure-alpha_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-azure-alpha_canvas_18-24.glb",
-              "usdz": "the-azure-alpha_canvas_18-24.usdz"
+              "glb": "the-azure-alpha_canvas_18x24.glb",
+              "usdz": "the-azure-alpha_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-azure-alpha_canvas_24-36.glb",
-              "usdz": "the-azure-alpha_canvas_24-36.usdz"
+              "glb": "the-azure-alpha_canvas_24x36.glb",
+              "usdz": "the-azure-alpha_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-azure-alpha_canvas_30-48.glb",
-              "usdz": "the-azure-alpha_canvas_30-48.usdz"
+              "glb": "the-azure-alpha_canvas_30x48.glb",
+              "usdz": "the-azure-alpha_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-azure-alpha_canvas_36-60.glb",
-              "usdz": "the-azure-alpha_canvas_36-60.usdz"
+              "glb": "the-azure-alpha_canvas_36x60.glb",
+              "usdz": "the-azure-alpha_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-azure-alpha_canvas_12x12.glb",
+              "usdz": "the-azure-alpha_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-azure-alpha_canvas_18x18.glb",
+              "usdz": "the-azure-alpha_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-azure-alpha_canvas_24x24.glb",
+              "usdz": "the-azure-alpha_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-azure-alpha_canvas_36x36.glb",
+              "usdz": "the-azure-alpha_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-azure-alpha_canvas_48x48.glb",
+              "usdz": "the-azure-alpha_canvas_48x48.usdz"
             }
           ]
         },
@@ -6483,47 +6293,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-havana-hideaway_canvas_12-18.glb",
-              "usdz": "the-havana-hideaway_canvas_12-18.usdz"
+              "glb": "the-havana-hideaway_canvas_12x18.glb",
+              "usdz": "the-havana-hideaway_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-havana-hideaway_canvas_18-24.glb",
-              "usdz": "the-havana-hideaway_canvas_18-24.usdz"
+              "glb": "the-havana-hideaway_canvas_18x24.glb",
+              "usdz": "the-havana-hideaway_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-havana-hideaway_canvas_24-36.glb",
-              "usdz": "the-havana-hideaway_canvas_24-36.usdz"
+              "glb": "the-havana-hideaway_canvas_24x36.glb",
+              "usdz": "the-havana-hideaway_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-havana-hideaway_canvas_30-48.glb",
-              "usdz": "the-havana-hideaway_canvas_30-48.usdz"
+              "glb": "the-havana-hideaway_canvas_30x48.glb",
+              "usdz": "the-havana-hideaway_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-havana-hideaway_canvas_36-60.glb",
-              "usdz": "the-havana-hideaway_canvas_36-60.usdz"
+              "glb": "the-havana-hideaway_canvas_36x60.glb",
+              "usdz": "the-havana-hideaway_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-havana-hideaway_canvas_12x12.glb",
+              "usdz": "the-havana-hideaway_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-havana-hideaway_canvas_18x18.glb",
+              "usdz": "the-havana-hideaway_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-havana-hideaway_canvas_24x24.glb",
+              "usdz": "the-havana-hideaway_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-havana-hideaway_canvas_36x36.glb",
+              "usdz": "the-havana-hideaway_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-havana-hideaway_canvas_48x48.glb",
+              "usdz": "the-havana-hideaway_canvas_48x48.usdz"
             }
           ]
         },
@@ -6561,47 +6411,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-inkwork-stroll_canvas_12-18.glb",
-              "usdz": "the-inkwork-stroll_canvas_12-18.usdz"
+              "glb": "the-inkwork-stroll_canvas_12x18.glb",
+              "usdz": "the-inkwork-stroll_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-inkwork-stroll_canvas_18-24.glb",
-              "usdz": "the-inkwork-stroll_canvas_18-24.usdz"
+              "glb": "the-inkwork-stroll_canvas_18x24.glb",
+              "usdz": "the-inkwork-stroll_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-inkwork-stroll_canvas_24-36.glb",
-              "usdz": "the-inkwork-stroll_canvas_24-36.usdz"
+              "glb": "the-inkwork-stroll_canvas_24x36.glb",
+              "usdz": "the-inkwork-stroll_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-inkwork-stroll_canvas_30-48.glb",
-              "usdz": "the-inkwork-stroll_canvas_30-48.usdz"
+              "glb": "the-inkwork-stroll_canvas_30x48.glb",
+              "usdz": "the-inkwork-stroll_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-inkwork-stroll_canvas_36-60.glb",
-              "usdz": "the-inkwork-stroll_canvas_36-60.usdz"
+              "glb": "the-inkwork-stroll_canvas_36x60.glb",
+              "usdz": "the-inkwork-stroll_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-inkwork-stroll_canvas_12x12.glb",
+              "usdz": "the-inkwork-stroll_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-inkwork-stroll_canvas_18x18.glb",
+              "usdz": "the-inkwork-stroll_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-inkwork-stroll_canvas_24x24.glb",
+              "usdz": "the-inkwork-stroll_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-inkwork-stroll_canvas_36x36.glb",
+              "usdz": "the-inkwork-stroll_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-inkwork-stroll_canvas_48x48.glb",
+              "usdz": "the-inkwork-stroll_canvas_48x48.usdz"
             }
           ]
         },
@@ -6639,47 +6529,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-midnight-meadow_canvas_12-18.glb",
-              "usdz": "the-midnight-meadow_canvas_12-18.usdz"
+              "glb": "the-midnight-meadow_canvas_12x18.glb",
+              "usdz": "the-midnight-meadow_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-midnight-meadow_canvas_18-24.glb",
-              "usdz": "the-midnight-meadow_canvas_18-24.usdz"
+              "glb": "the-midnight-meadow_canvas_18x24.glb",
+              "usdz": "the-midnight-meadow_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-midnight-meadow_canvas_24-36.glb",
-              "usdz": "the-midnight-meadow_canvas_24-36.usdz"
+              "glb": "the-midnight-meadow_canvas_24x36.glb",
+              "usdz": "the-midnight-meadow_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-midnight-meadow_canvas_30-48.glb",
-              "usdz": "the-midnight-meadow_canvas_30-48.usdz"
+              "glb": "the-midnight-meadow_canvas_30x48.glb",
+              "usdz": "the-midnight-meadow_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-midnight-meadow_canvas_36-60.glb",
-              "usdz": "the-midnight-meadow_canvas_36-60.usdz"
+              "glb": "the-midnight-meadow_canvas_36x60.glb",
+              "usdz": "the-midnight-meadow_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-midnight-meadow_canvas_12x12.glb",
+              "usdz": "the-midnight-meadow_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-midnight-meadow_canvas_18x18.glb",
+              "usdz": "the-midnight-meadow_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-midnight-meadow_canvas_24x24.glb",
+              "usdz": "the-midnight-meadow_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-midnight-meadow_canvas_36x36.glb",
+              "usdz": "the-midnight-meadow_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-midnight-meadow_canvas_48x48.glb",
+              "usdz": "the-midnight-meadow_canvas_48x48.usdz"
             }
           ]
         },
@@ -6717,47 +6647,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-velvet-siesta_canvas_12-18.glb",
-              "usdz": "the-velvet-siesta_canvas_12-18.usdz"
+              "glb": "the-velvet-siesta_canvas_12x18.glb",
+              "usdz": "the-velvet-siesta_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-velvet-siesta_canvas_18-24.glb",
-              "usdz": "the-velvet-siesta_canvas_18-24.usdz"
+              "glb": "the-velvet-siesta_canvas_18x24.glb",
+              "usdz": "the-velvet-siesta_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-velvet-siesta_canvas_24-36.glb",
-              "usdz": "the-velvet-siesta_canvas_24-36.usdz"
+              "glb": "the-velvet-siesta_canvas_24x36.glb",
+              "usdz": "the-velvet-siesta_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-velvet-siesta_canvas_30-48.glb",
-              "usdz": "the-velvet-siesta_canvas_30-48.usdz"
+              "glb": "the-velvet-siesta_canvas_30x48.glb",
+              "usdz": "the-velvet-siesta_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-velvet-siesta_canvas_36-60.glb",
-              "usdz": "the-velvet-siesta_canvas_36-60.usdz"
+              "glb": "the-velvet-siesta_canvas_36x60.glb",
+              "usdz": "the-velvet-siesta_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-velvet-siesta_canvas_12x12.glb",
+              "usdz": "the-velvet-siesta_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-velvet-siesta_canvas_18x18.glb",
+              "usdz": "the-velvet-siesta_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-velvet-siesta_canvas_24x24.glb",
+              "usdz": "the-velvet-siesta_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-velvet-siesta_canvas_36x36.glb",
+              "usdz": "the-velvet-siesta_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-velvet-siesta_canvas_48x48.glb",
+              "usdz": "the-velvet-siesta_canvas_48x48.usdz"
             }
           ]
         },
@@ -6795,47 +6765,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-self-care-specialist_canvas_12-18.glb",
-              "usdz": "the-self-care-specialist_canvas_12-18.usdz"
+              "glb": "the-self-care-specialist_canvas_12x18.glb",
+              "usdz": "the-self-care-specialist_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-self-care-specialist_canvas_18-24.glb",
-              "usdz": "the-self-care-specialist_canvas_18-24.usdz"
+              "glb": "the-self-care-specialist_canvas_18x24.glb",
+              "usdz": "the-self-care-specialist_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-self-care-specialist_canvas_24-36.glb",
-              "usdz": "the-self-care-specialist_canvas_24-36.usdz"
+              "glb": "the-self-care-specialist_canvas_24x36.glb",
+              "usdz": "the-self-care-specialist_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-self-care-specialist_canvas_30-48.glb",
-              "usdz": "the-self-care-specialist_canvas_30-48.usdz"
+              "glb": "the-self-care-specialist_canvas_30x48.glb",
+              "usdz": "the-self-care-specialist_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-self-care-specialist_canvas_36-60.glb",
-              "usdz": "the-self-care-specialist_canvas_36-60.usdz"
+              "glb": "the-self-care-specialist_canvas_36x60.glb",
+              "usdz": "the-self-care-specialist_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-self-care-specialist_canvas_12x12.glb",
+              "usdz": "the-self-care-specialist_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-self-care-specialist_canvas_18x18.glb",
+              "usdz": "the-self-care-specialist_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-self-care-specialist_canvas_24x24.glb",
+              "usdz": "the-self-care-specialist_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-self-care-specialist_canvas_36x36.glb",
+              "usdz": "the-self-care-specialist_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-self-care-specialist_canvas_48x48.glb",
+              "usdz": "the-self-care-specialist_canvas_48x48.usdz"
             }
           ]
         },
@@ -6873,47 +6883,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-sea-side-socialites_canvas_12-18.glb",
-              "usdz": "the-sea-side-socialites_canvas_12-18.usdz"
+              "glb": "the-sea-side-socialites_canvas_12x18.glb",
+              "usdz": "the-sea-side-socialites_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-sea-side-socialites_canvas_18-24.glb",
-              "usdz": "the-sea-side-socialites_canvas_18-24.usdz"
+              "glb": "the-sea-side-socialites_canvas_18x24.glb",
+              "usdz": "the-sea-side-socialites_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-sea-side-socialites_canvas_24-36.glb",
-              "usdz": "the-sea-side-socialites_canvas_24-36.usdz"
+              "glb": "the-sea-side-socialites_canvas_24x36.glb",
+              "usdz": "the-sea-side-socialites_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-sea-side-socialites_canvas_30-48.glb",
-              "usdz": "the-sea-side-socialites_canvas_30-48.usdz"
+              "glb": "the-sea-side-socialites_canvas_30x48.glb",
+              "usdz": "the-sea-side-socialites_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-sea-side-socialites_canvas_36-60.glb",
-              "usdz": "the-sea-side-socialites_canvas_36-60.usdz"
+              "glb": "the-sea-side-socialites_canvas_36x60.glb",
+              "usdz": "the-sea-side-socialites_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-sea-side-socialites_canvas_12x12.glb",
+              "usdz": "the-sea-side-socialites_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-sea-side-socialites_canvas_18x18.glb",
+              "usdz": "the-sea-side-socialites_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-sea-side-socialites_canvas_24x24.glb",
+              "usdz": "the-sea-side-socialites_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-sea-side-socialites_canvas_36x36.glb",
+              "usdz": "the-sea-side-socialites_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-sea-side-socialites_canvas_48x48.glb",
+              "usdz": "the-sea-side-socialites_canvas_48x48.usdz"
             }
           ]
         },
@@ -6951,47 +7001,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-rose-petal-regent_canvas_12-18.glb",
-              "usdz": "the-rose-petal-regent_canvas_12-18.usdz"
+              "glb": "the-rose-petal-regent_canvas_12x18.glb",
+              "usdz": "the-rose-petal-regent_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-rose-petal-regent_canvas_18-24.glb",
-              "usdz": "the-rose-petal-regent_canvas_18-24.usdz"
+              "glb": "the-rose-petal-regent_canvas_18x24.glb",
+              "usdz": "the-rose-petal-regent_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-rose-petal-regent_canvas_24-36.glb",
-              "usdz": "the-rose-petal-regent_canvas_24-36.usdz"
+              "glb": "the-rose-petal-regent_canvas_24x36.glb",
+              "usdz": "the-rose-petal-regent_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-rose-petal-regent_canvas_30-48.glb",
-              "usdz": "the-rose-petal-regent_canvas_30-48.usdz"
+              "glb": "the-rose-petal-regent_canvas_30x48.glb",
+              "usdz": "the-rose-petal-regent_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-rose-petal-regent_canvas_36-60.glb",
-              "usdz": "the-rose-petal-regent_canvas_36-60.usdz"
+              "glb": "the-rose-petal-regent_canvas_36x60.glb",
+              "usdz": "the-rose-petal-regent_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-rose-petal-regent_canvas_12x12.glb",
+              "usdz": "the-rose-petal-regent_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-rose-petal-regent_canvas_18x18.glb",
+              "usdz": "the-rose-petal-regent_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-rose-petal-regent_canvas_24x24.glb",
+              "usdz": "the-rose-petal-regent_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-rose-petal-regent_canvas_36x36.glb",
+              "usdz": "the-rose-petal-regent_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-rose-petal-regent_canvas_48x48.glb",
+              "usdz": "the-rose-petal-regent_canvas_48x48.usdz"
             }
           ]
         },
@@ -7029,47 +7119,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-pop-art-panthera_canvas_12-18.glb",
-              "usdz": "the-pop-art-panthera_canvas_12-18.usdz"
+              "glb": "the-pop-art-panthera_canvas_12x18.glb",
+              "usdz": "the-pop-art-panthera_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-pop-art-panthera_canvas_18-24.glb",
-              "usdz": "the-pop-art-panthera_canvas_18-24.usdz"
+              "glb": "the-pop-art-panthera_canvas_18x24.glb",
+              "usdz": "the-pop-art-panthera_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-pop-art-panthera_canvas_24-36.glb",
-              "usdz": "the-pop-art-panthera_canvas_24-36.usdz"
+              "glb": "the-pop-art-panthera_canvas_24x36.glb",
+              "usdz": "the-pop-art-panthera_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-pop-art-panthera_canvas_30-48.glb",
-              "usdz": "the-pop-art-panthera_canvas_30-48.usdz"
+              "glb": "the-pop-art-panthera_canvas_30x48.glb",
+              "usdz": "the-pop-art-panthera_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-pop-art-panthera_canvas_36-60.glb",
-              "usdz": "the-pop-art-panthera_canvas_36-60.usdz"
+              "glb": "the-pop-art-panthera_canvas_36x60.glb",
+              "usdz": "the-pop-art-panthera_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-pop-art-panthera_canvas_12x12.glb",
+              "usdz": "the-pop-art-panthera_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-pop-art-panthera_canvas_18x18.glb",
+              "usdz": "the-pop-art-panthera_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-pop-art-panthera_canvas_24x24.glb",
+              "usdz": "the-pop-art-panthera_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-pop-art-panthera_canvas_36x36.glb",
+              "usdz": "the-pop-art-panthera_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-pop-art-panthera_canvas_48x48.glb",
+              "usdz": "the-pop-art-panthera_canvas_48x48.usdz"
             }
           ]
         },
@@ -7107,47 +7237,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "botanical-bengal_canvas_12-18.glb",
-              "usdz": "botanical-bengal_canvas_12-18.usdz"
+              "glb": "botanical-bengal_canvas_12x18.glb",
+              "usdz": "botanical-bengal_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "botanical-bengal_canvas_18-24.glb",
-              "usdz": "botanical-bengal_canvas_18-24.usdz"
+              "glb": "botanical-bengal_canvas_18x24.glb",
+              "usdz": "botanical-bengal_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "botanical-bengal_canvas_24-36.glb",
-              "usdz": "botanical-bengal_canvas_24-36.usdz"
+              "glb": "botanical-bengal_canvas_24x36.glb",
+              "usdz": "botanical-bengal_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "botanical-bengal_canvas_30-48.glb",
-              "usdz": "botanical-bengal_canvas_30-48.usdz"
+              "glb": "botanical-bengal_canvas_30x48.glb",
+              "usdz": "botanical-bengal_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "botanical-bengal_canvas_36-60.glb",
-              "usdz": "botanical-bengal_canvas_36-60.usdz"
+              "glb": "botanical-bengal_canvas_36x60.glb",
+              "usdz": "botanical-bengal_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "botanical-bengal_canvas_12x12.glb",
+              "usdz": "botanical-bengal_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "botanical-bengal_canvas_18x18.glb",
+              "usdz": "botanical-bengal_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "botanical-bengal_canvas_24x24.glb",
+              "usdz": "botanical-bengal_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "botanical-bengal_canvas_36x36.glb",
+              "usdz": "botanical-bengal_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "botanical-bengal_canvas_48x48.glb",
+              "usdz": "botanical-bengal_canvas_48x48.usdz"
             }
           ]
         },
@@ -7185,47 +7355,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "petals-in-shadow_canvas_12-18.glb",
-              "usdz": "petals-in-shadow_canvas_12-18.usdz"
+              "glb": "petals-in-shadow_canvas_12x18.glb",
+              "usdz": "petals-in-shadow_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "petals-in-shadow_canvas_18-24.glb",
-              "usdz": "petals-in-shadow_canvas_18-24.usdz"
+              "glb": "petals-in-shadow_canvas_18x24.glb",
+              "usdz": "petals-in-shadow_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "petals-in-shadow_canvas_24-36.glb",
-              "usdz": "petals-in-shadow_canvas_24-36.usdz"
+              "glb": "petals-in-shadow_canvas_24x36.glb",
+              "usdz": "petals-in-shadow_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "petals-in-shadow_canvas_30-48.glb",
-              "usdz": "petals-in-shadow_canvas_30-48.usdz"
+              "glb": "petals-in-shadow_canvas_30x48.glb",
+              "usdz": "petals-in-shadow_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "petals-in-shadow_canvas_36-60.glb",
-              "usdz": "petals-in-shadow_canvas_36-60.usdz"
+              "glb": "petals-in-shadow_canvas_36x60.glb",
+              "usdz": "petals-in-shadow_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "petals-in-shadow_canvas_12x12.glb",
+              "usdz": "petals-in-shadow_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "petals-in-shadow_canvas_18x18.glb",
+              "usdz": "petals-in-shadow_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "petals-in-shadow_canvas_24x24.glb",
+              "usdz": "petals-in-shadow_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "petals-in-shadow_canvas_36x36.glb",
+              "usdz": "petals-in-shadow_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "petals-in-shadow_canvas_48x48.glb",
+              "usdz": "petals-in-shadow_canvas_48x48.usdz"
             }
           ]
         },
@@ -7263,47 +7473,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-royal-alcove_canvas_12-18.glb",
-              "usdz": "the-royal-alcove_canvas_12-18.usdz"
+              "glb": "the-royal-alcove_canvas_12x18.glb",
+              "usdz": "the-royal-alcove_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-royal-alcove_canvas_18-24.glb",
-              "usdz": "the-royal-alcove_canvas_18-24.usdz"
+              "glb": "the-royal-alcove_canvas_18x24.glb",
+              "usdz": "the-royal-alcove_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-royal-alcove_canvas_24-36.glb",
-              "usdz": "the-royal-alcove_canvas_24-36.usdz"
+              "glb": "the-royal-alcove_canvas_24x36.glb",
+              "usdz": "the-royal-alcove_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-royal-alcove_canvas_30-48.glb",
-              "usdz": "the-royal-alcove_canvas_30-48.usdz"
+              "glb": "the-royal-alcove_canvas_30x48.glb",
+              "usdz": "the-royal-alcove_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-royal-alcove_canvas_36-60.glb",
-              "usdz": "the-royal-alcove_canvas_36-60.usdz"
+              "glb": "the-royal-alcove_canvas_36x60.glb",
+              "usdz": "the-royal-alcove_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-royal-alcove_canvas_12x12.glb",
+              "usdz": "the-royal-alcove_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-royal-alcove_canvas_18x18.glb",
+              "usdz": "the-royal-alcove_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-royal-alcove_canvas_24x24.glb",
+              "usdz": "the-royal-alcove_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-royal-alcove_canvas_36x36.glb",
+              "usdz": "the-royal-alcove_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-royal-alcove_canvas_48x48.glb",
+              "usdz": "the-royal-alcove_canvas_48x48.usdz"
             }
           ]
         },
@@ -7341,47 +7591,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "nocturnal-fragrance_canvas_12-18.glb",
-              "usdz": "nocturnal-fragrance_canvas_12-18.usdz"
+              "glb": "nocturnal-fragrance_canvas_12x18.glb",
+              "usdz": "nocturnal-fragrance_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "nocturnal-fragrance_canvas_18-24.glb",
-              "usdz": "nocturnal-fragrance_canvas_18-24.usdz"
+              "glb": "nocturnal-fragrance_canvas_18x24.glb",
+              "usdz": "nocturnal-fragrance_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "nocturnal-fragrance_canvas_24-36.glb",
-              "usdz": "nocturnal-fragrance_canvas_24-36.usdz"
+              "glb": "nocturnal-fragrance_canvas_24x36.glb",
+              "usdz": "nocturnal-fragrance_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "nocturnal-fragrance_canvas_30-48.glb",
-              "usdz": "nocturnal-fragrance_canvas_30-48.usdz"
+              "glb": "nocturnal-fragrance_canvas_30x48.glb",
+              "usdz": "nocturnal-fragrance_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "nocturnal-fragrance_canvas_36-60.glb",
-              "usdz": "nocturnal-fragrance_canvas_36-60.usdz"
+              "glb": "nocturnal-fragrance_canvas_36x60.glb",
+              "usdz": "nocturnal-fragrance_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "nocturnal-fragrance_canvas_12x12.glb",
+              "usdz": "nocturnal-fragrance_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "nocturnal-fragrance_canvas_18x18.glb",
+              "usdz": "nocturnal-fragrance_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "nocturnal-fragrance_canvas_24x24.glb",
+              "usdz": "nocturnal-fragrance_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "nocturnal-fragrance_canvas_36x36.glb",
+              "usdz": "nocturnal-fragrance_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "nocturnal-fragrance_canvas_48x48.glb",
+              "usdz": "nocturnal-fragrance_canvas_48x48.usdz"
             }
           ]
         },
@@ -7419,47 +7709,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-emerald-impact_canvas_12-18.glb",
-              "usdz": "the-emerald-impact_canvas_12-18.usdz"
+              "glb": "the-emerald-impact_canvas_12x18.glb",
+              "usdz": "the-emerald-impact_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-emerald-impact_canvas_18-24.glb",
-              "usdz": "the-emerald-impact_canvas_18-24.usdz"
+              "glb": "the-emerald-impact_canvas_18x24.glb",
+              "usdz": "the-emerald-impact_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-emerald-impact_canvas_24-36.glb",
-              "usdz": "the-emerald-impact_canvas_24-36.usdz"
+              "glb": "the-emerald-impact_canvas_24x36.glb",
+              "usdz": "the-emerald-impact_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-emerald-impact_canvas_30-48.glb",
-              "usdz": "the-emerald-impact_canvas_30-48.usdz"
+              "glb": "the-emerald-impact_canvas_30x48.glb",
+              "usdz": "the-emerald-impact_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-emerald-impact_canvas_36-60.glb",
-              "usdz": "the-emerald-impact_canvas_36-60.usdz"
+              "glb": "the-emerald-impact_canvas_36x60.glb",
+              "usdz": "the-emerald-impact_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-emerald-impact_canvas_12x12.glb",
+              "usdz": "the-emerald-impact_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-emerald-impact_canvas_18x18.glb",
+              "usdz": "the-emerald-impact_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-emerald-impact_canvas_24x24.glb",
+              "usdz": "the-emerald-impact_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-emerald-impact_canvas_36x36.glb",
+              "usdz": "the-emerald-impact_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-emerald-impact_canvas_48x48.glb",
+              "usdz": "the-emerald-impact_canvas_48x48.usdz"
             }
           ]
         },
@@ -7497,47 +7827,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-graffitied-grace_canvas_12-18.glb",
-              "usdz": "the-graffitied-grace_canvas_12-18.usdz"
+              "glb": "the-graffitied-grace_canvas_12x18.glb",
+              "usdz": "the-graffitied-grace_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-graffitied-grace_canvas_18-24.glb",
-              "usdz": "the-graffitied-grace_canvas_18-24.usdz"
+              "glb": "the-graffitied-grace_canvas_18x24.glb",
+              "usdz": "the-graffitied-grace_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-graffitied-grace_canvas_24-36.glb",
-              "usdz": "the-graffitied-grace_canvas_24-36.usdz"
+              "glb": "the-graffitied-grace_canvas_24x36.glb",
+              "usdz": "the-graffitied-grace_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-graffitied-grace_canvas_30-48.glb",
-              "usdz": "the-graffitied-grace_canvas_30-48.usdz"
+              "glb": "the-graffitied-grace_canvas_30x48.glb",
+              "usdz": "the-graffitied-grace_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-graffitied-grace_canvas_36-60.glb",
-              "usdz": "the-graffitied-grace_canvas_36-60.usdz"
+              "glb": "the-graffitied-grace_canvas_36x60.glb",
+              "usdz": "the-graffitied-grace_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-graffitied-grace_canvas_12x12.glb",
+              "usdz": "the-graffitied-grace_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-graffitied-grace_canvas_18x18.glb",
+              "usdz": "the-graffitied-grace_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-graffitied-grace_canvas_24x24.glb",
+              "usdz": "the-graffitied-grace_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-graffitied-grace_canvas_36x36.glb",
+              "usdz": "the-graffitied-grace_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-graffitied-grace_canvas_48x48.glb",
+              "usdz": "the-graffitied-grace_canvas_48x48.usdz"
             }
           ]
         },
@@ -7575,47 +7945,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-masked-masterpiece_canvas_12-18.glb",
-              "usdz": "the-masked-masterpiece_canvas_12-18.usdz"
+              "glb": "the-masked-masterpiece_canvas_12x18.glb",
+              "usdz": "the-masked-masterpiece_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-masked-masterpiece_canvas_18-24.glb",
-              "usdz": "the-masked-masterpiece_canvas_18-24.usdz"
+              "glb": "the-masked-masterpiece_canvas_18x24.glb",
+              "usdz": "the-masked-masterpiece_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-masked-masterpiece_canvas_24-36.glb",
-              "usdz": "the-masked-masterpiece_canvas_24-36.usdz"
+              "glb": "the-masked-masterpiece_canvas_24x36.glb",
+              "usdz": "the-masked-masterpiece_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-masked-masterpiece_canvas_30-48.glb",
-              "usdz": "the-masked-masterpiece_canvas_30-48.usdz"
+              "glb": "the-masked-masterpiece_canvas_30x48.glb",
+              "usdz": "the-masked-masterpiece_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-masked-masterpiece_canvas_36-60.glb",
-              "usdz": "the-masked-masterpiece_canvas_36-60.usdz"
+              "glb": "the-masked-masterpiece_canvas_36x60.glb",
+              "usdz": "the-masked-masterpiece_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-masked-masterpiece_canvas_12x12.glb",
+              "usdz": "the-masked-masterpiece_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-masked-masterpiece_canvas_18x18.glb",
+              "usdz": "the-masked-masterpiece_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-masked-masterpiece_canvas_24x24.glb",
+              "usdz": "the-masked-masterpiece_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-masked-masterpiece_canvas_36x36.glb",
+              "usdz": "the-masked-masterpiece_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-masked-masterpiece_canvas_48x48.glb",
+              "usdz": "the-masked-masterpiece_canvas_48x48.usdz"
             }
           ]
         },
@@ -7653,47 +8063,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-fiscal-x-ray_canvas_12-18.glb",
-              "usdz": "the-fiscal-x-ray_canvas_12-18.usdz"
+              "glb": "the-fiscal-x-ray_canvas_12x18.glb",
+              "usdz": "the-fiscal-x-ray_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-fiscal-x-ray_canvas_18-24.glb",
-              "usdz": "the-fiscal-x-ray_canvas_18-24.usdz"
+              "glb": "the-fiscal-x-ray_canvas_18x24.glb",
+              "usdz": "the-fiscal-x-ray_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-fiscal-x-ray_canvas_24-36.glb",
-              "usdz": "the-fiscal-x-ray_canvas_24-36.usdz"
+              "glb": "the-fiscal-x-ray_canvas_24x36.glb",
+              "usdz": "the-fiscal-x-ray_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-fiscal-x-ray_canvas_30-48.glb",
-              "usdz": "the-fiscal-x-ray_canvas_30-48.usdz"
+              "glb": "the-fiscal-x-ray_canvas_30x48.glb",
+              "usdz": "the-fiscal-x-ray_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-fiscal-x-ray_canvas_36-60.glb",
-              "usdz": "the-fiscal-x-ray_canvas_36-60.usdz"
+              "glb": "the-fiscal-x-ray_canvas_36x60.glb",
+              "usdz": "the-fiscal-x-ray_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-fiscal-x-ray_canvas_12x12.glb",
+              "usdz": "the-fiscal-x-ray_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-fiscal-x-ray_canvas_18x18.glb",
+              "usdz": "the-fiscal-x-ray_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-fiscal-x-ray_canvas_24x24.glb",
+              "usdz": "the-fiscal-x-ray_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-fiscal-x-ray_canvas_36x36.glb",
+              "usdz": "the-fiscal-x-ray_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-fiscal-x-ray_canvas_48x48.glb",
+              "usdz": "the-fiscal-x-ray_canvas_48x48.usdz"
             }
           ]
         },
@@ -7731,47 +8181,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-atelier-anarchy_canvas_12-18.glb",
-              "usdz": "the-atelier-anarchy_canvas_12-18.usdz"
+              "glb": "the-atelier-anarchy_canvas_12x18.glb",
+              "usdz": "the-atelier-anarchy_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-atelier-anarchy_canvas_18-24.glb",
-              "usdz": "the-atelier-anarchy_canvas_18-24.usdz"
+              "glb": "the-atelier-anarchy_canvas_18x24.glb",
+              "usdz": "the-atelier-anarchy_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-atelier-anarchy_canvas_24-36.glb",
-              "usdz": "the-atelier-anarchy_canvas_24-36.usdz"
+              "glb": "the-atelier-anarchy_canvas_24x36.glb",
+              "usdz": "the-atelier-anarchy_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-atelier-anarchy_canvas_30-48.glb",
-              "usdz": "the-atelier-anarchy_canvas_30-48.usdz"
+              "glb": "the-atelier-anarchy_canvas_30x48.glb",
+              "usdz": "the-atelier-anarchy_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-atelier-anarchy_canvas_36-60.glb",
-              "usdz": "the-atelier-anarchy_canvas_36-60.usdz"
+              "glb": "the-atelier-anarchy_canvas_36x60.glb",
+              "usdz": "the-atelier-anarchy_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-atelier-anarchy_canvas_12x12.glb",
+              "usdz": "the-atelier-anarchy_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-atelier-anarchy_canvas_18x18.glb",
+              "usdz": "the-atelier-anarchy_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-atelier-anarchy_canvas_24x24.glb",
+              "usdz": "the-atelier-anarchy_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-atelier-anarchy_canvas_36x36.glb",
+              "usdz": "the-atelier-anarchy_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-atelier-anarchy_canvas_48x48.glb",
+              "usdz": "the-atelier-anarchy_canvas_48x48.usdz"
             }
           ]
         },
@@ -7809,47 +8299,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "bubblegum-rebellion_canvas_12-18.glb",
-              "usdz": "bubblegum-rebellion_canvas_12-18.usdz"
+              "glb": "bubblegum-rebellion_canvas_12x18.glb",
+              "usdz": "bubblegum-rebellion_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "bubblegum-rebellion_canvas_18-24.glb",
-              "usdz": "bubblegum-rebellion_canvas_18-24.usdz"
+              "glb": "bubblegum-rebellion_canvas_18x24.glb",
+              "usdz": "bubblegum-rebellion_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "bubblegum-rebellion_canvas_24-36.glb",
-              "usdz": "bubblegum-rebellion_canvas_24-36.usdz"
+              "glb": "bubblegum-rebellion_canvas_24x36.glb",
+              "usdz": "bubblegum-rebellion_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "bubblegum-rebellion_canvas_30-48.glb",
-              "usdz": "bubblegum-rebellion_canvas_30-48.usdz"
+              "glb": "bubblegum-rebellion_canvas_30x48.glb",
+              "usdz": "bubblegum-rebellion_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "bubblegum-rebellion_canvas_36-60.glb",
-              "usdz": "bubblegum-rebellion_canvas_36-60.usdz"
+              "glb": "bubblegum-rebellion_canvas_36x60.glb",
+              "usdz": "bubblegum-rebellion_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "bubblegum-rebellion_canvas_12x12.glb",
+              "usdz": "bubblegum-rebellion_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "bubblegum-rebellion_canvas_18x18.glb",
+              "usdz": "bubblegum-rebellion_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "bubblegum-rebellion_canvas_24x24.glb",
+              "usdz": "bubblegum-rebellion_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "bubblegum-rebellion_canvas_36x36.glb",
+              "usdz": "bubblegum-rebellion_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "bubblegum-rebellion_canvas_48x48.glb",
+              "usdz": "bubblegum-rebellion_canvas_48x48.usdz"
             }
           ]
         },
@@ -7887,47 +8417,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-wolf-of-wall-street_canvas_12-18.glb",
-              "usdz": "the-wolf-of-wall-street_canvas_12-18.usdz"
+              "glb": "the-wolf-of-wall-street_canvas_12x18.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-wolf-of-wall-street_canvas_18-24.glb",
-              "usdz": "the-wolf-of-wall-street_canvas_18-24.usdz"
+              "glb": "the-wolf-of-wall-street_canvas_18x24.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-wolf-of-wall-street_canvas_24-36.glb",
-              "usdz": "the-wolf-of-wall-street_canvas_24-36.usdz"
+              "glb": "the-wolf-of-wall-street_canvas_24x36.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-wolf-of-wall-street_canvas_30-48.glb",
-              "usdz": "the-wolf-of-wall-street_canvas_30-48.usdz"
+              "glb": "the-wolf-of-wall-street_canvas_30x48.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-wolf-of-wall-street_canvas_36-60.glb",
-              "usdz": "the-wolf-of-wall-street_canvas_36-60.usdz"
+              "glb": "the-wolf-of-wall-street_canvas_36x60.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-wolf-of-wall-street_canvas_12x12.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-wolf-of-wall-street_canvas_18x18.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-wolf-of-wall-street_canvas_24x24.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-wolf-of-wall-street_canvas_36x36.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-wolf-of-wall-street_canvas_48x48.glb",
+              "usdz": "the-wolf-of-wall-street_canvas_48x48.usdz"
             }
           ]
         },
@@ -7965,47 +8535,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-classic-label_canvas_12-18.glb",
-              "usdz": "the-classic-label_canvas_12-18.usdz"
+              "glb": "the-classic-label_canvas_12x18.glb",
+              "usdz": "the-classic-label_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-classic-label_canvas_18-24.glb",
-              "usdz": "the-classic-label_canvas_18-24.usdz"
+              "glb": "the-classic-label_canvas_18x24.glb",
+              "usdz": "the-classic-label_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-classic-label_canvas_24-36.glb",
-              "usdz": "the-classic-label_canvas_24-36.usdz"
+              "glb": "the-classic-label_canvas_24x36.glb",
+              "usdz": "the-classic-label_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-classic-label_canvas_30-48.glb",
-              "usdz": "the-classic-label_canvas_30-48.usdz"
+              "glb": "the-classic-label_canvas_30x48.glb",
+              "usdz": "the-classic-label_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-classic-label_canvas_36-60.glb",
-              "usdz": "the-classic-label_canvas_36-60.usdz"
+              "glb": "the-classic-label_canvas_36x60.glb",
+              "usdz": "the-classic-label_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-classic-label_canvas_12x12.glb",
+              "usdz": "the-classic-label_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-classic-label_canvas_18x18.glb",
+              "usdz": "the-classic-label_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-classic-label_canvas_24x24.glb",
+              "usdz": "the-classic-label_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-classic-label_canvas_36x36.glb",
+              "usdz": "the-classic-label_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-classic-label_canvas_48x48.glb",
+              "usdz": "the-classic-label_canvas_48x48.usdz"
             }
           ]
         },
@@ -8043,47 +8653,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-ceos-greed_canvas_12-18.glb",
-              "usdz": "the-ceos-greed_canvas_12-18.usdz"
+              "glb": "the-ceos-greed_canvas_12x18.glb",
+              "usdz": "the-ceos-greed_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-ceos-greed_canvas_18-24.glb",
-              "usdz": "the-ceos-greed_canvas_18-24.usdz"
+              "glb": "the-ceos-greed_canvas_18x24.glb",
+              "usdz": "the-ceos-greed_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-ceos-greed_canvas_24-36.glb",
-              "usdz": "the-ceos-greed_canvas_24-36.usdz"
+              "glb": "the-ceos-greed_canvas_24x36.glb",
+              "usdz": "the-ceos-greed_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-ceos-greed_canvas_30-48.glb",
-              "usdz": "the-ceos-greed_canvas_30-48.usdz"
+              "glb": "the-ceos-greed_canvas_30x48.glb",
+              "usdz": "the-ceos-greed_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-ceos-greed_canvas_36-60.glb",
-              "usdz": "the-ceos-greed_canvas_36-60.usdz"
+              "glb": "the-ceos-greed_canvas_36x60.glb",
+              "usdz": "the-ceos-greed_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-ceos-greed_canvas_12x12.glb",
+              "usdz": "the-ceos-greed_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-ceos-greed_canvas_18x18.glb",
+              "usdz": "the-ceos-greed_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-ceos-greed_canvas_24x24.glb",
+              "usdz": "the-ceos-greed_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-ceos-greed_canvas_36x36.glb",
+              "usdz": "the-ceos-greed_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-ceos-greed_canvas_48x48.glb",
+              "usdz": "the-ceos-greed_canvas_48x48.usdz"
             }
           ]
         },
@@ -8121,47 +8771,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-golden-payload_canvas_12-18.glb",
-              "usdz": "the-golden-payload_canvas_12-18.usdz"
+              "glb": "the-golden-payload_canvas_12x18.glb",
+              "usdz": "the-golden-payload_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-golden-payload_canvas_18-24.glb",
-              "usdz": "the-golden-payload_canvas_18-24.usdz"
+              "glb": "the-golden-payload_canvas_18x24.glb",
+              "usdz": "the-golden-payload_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-golden-payload_canvas_24-36.glb",
-              "usdz": "the-golden-payload_canvas_24-36.usdz"
+              "glb": "the-golden-payload_canvas_24x36.glb",
+              "usdz": "the-golden-payload_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-golden-payload_canvas_30-48.glb",
-              "usdz": "the-golden-payload_canvas_30-48.usdz"
+              "glb": "the-golden-payload_canvas_30x48.glb",
+              "usdz": "the-golden-payload_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-golden-payload_canvas_36-60.glb",
-              "usdz": "the-golden-payload_canvas_36-60.usdz"
+              "glb": "the-golden-payload_canvas_36x60.glb",
+              "usdz": "the-golden-payload_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-golden-payload_canvas_12x12.glb",
+              "usdz": "the-golden-payload_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-golden-payload_canvas_18x18.glb",
+              "usdz": "the-golden-payload_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-golden-payload_canvas_24x24.glb",
+              "usdz": "the-golden-payload_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-golden-payload_canvas_36x36.glb",
+              "usdz": "the-golden-payload_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-golden-payload_canvas_48x48.glb",
+              "usdz": "the-golden-payload_canvas_48x48.usdz"
             }
           ]
         },
@@ -8199,47 +8889,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "legend-of-the-forum_canvas_12-18.glb",
-              "usdz": "legend-of-the-forum_canvas_12-18.usdz"
+              "glb": "legend-of-the-forum_canvas_12x18.glb",
+              "usdz": "legend-of-the-forum_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "legend-of-the-forum_canvas_18-24.glb",
-              "usdz": "legend-of-the-forum_canvas_18-24.usdz"
+              "glb": "legend-of-the-forum_canvas_18x24.glb",
+              "usdz": "legend-of-the-forum_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "legend-of-the-forum_canvas_24-36.glb",
-              "usdz": "legend-of-the-forum_canvas_24-36.usdz"
+              "glb": "legend-of-the-forum_canvas_24x36.glb",
+              "usdz": "legend-of-the-forum_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "legend-of-the-forum_canvas_30-48.glb",
-              "usdz": "legend-of-the-forum_canvas_30-48.usdz"
+              "glb": "legend-of-the-forum_canvas_30x48.glb",
+              "usdz": "legend-of-the-forum_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "legend-of-the-forum_canvas_36-60.glb",
-              "usdz": "legend-of-the-forum_canvas_36-60.usdz"
+              "glb": "legend-of-the-forum_canvas_36x60.glb",
+              "usdz": "legend-of-the-forum_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "legend-of-the-forum_canvas_12x12.glb",
+              "usdz": "legend-of-the-forum_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "legend-of-the-forum_canvas_18x18.glb",
+              "usdz": "legend-of-the-forum_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "legend-of-the-forum_canvas_24x24.glb",
+              "usdz": "legend-of-the-forum_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "legend-of-the-forum_canvas_36x36.glb",
+              "usdz": "legend-of-the-forum_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "legend-of-the-forum_canvas_48x48.glb",
+              "usdz": "legend-of-the-forum_canvas_48x48.usdz"
             }
           ]
         },
@@ -8277,47 +9007,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "statue-of-vixen_canvas_12-18.glb",
-              "usdz": "statue-of-vixen_canvas_12-18.usdz"
+              "glb": "statue-of-vixen_canvas_12x18.glb",
+              "usdz": "statue-of-vixen_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "statue-of-vixen_canvas_18-24.glb",
-              "usdz": "statue-of-vixen_canvas_18-24.usdz"
+              "glb": "statue-of-vixen_canvas_18x24.glb",
+              "usdz": "statue-of-vixen_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "statue-of-vixen_canvas_24-36.glb",
-              "usdz": "statue-of-vixen_canvas_24-36.usdz"
+              "glb": "statue-of-vixen_canvas_24x36.glb",
+              "usdz": "statue-of-vixen_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "statue-of-vixen_canvas_30-48.glb",
-              "usdz": "statue-of-vixen_canvas_30-48.usdz"
+              "glb": "statue-of-vixen_canvas_30x48.glb",
+              "usdz": "statue-of-vixen_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "statue-of-vixen_canvas_36-60.glb",
-              "usdz": "statue-of-vixen_canvas_36-60.usdz"
+              "glb": "statue-of-vixen_canvas_36x60.glb",
+              "usdz": "statue-of-vixen_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "statue-of-vixen_canvas_12x12.glb",
+              "usdz": "statue-of-vixen_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "statue-of-vixen_canvas_18x18.glb",
+              "usdz": "statue-of-vixen_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "statue-of-vixen_canvas_24x24.glb",
+              "usdz": "statue-of-vixen_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "statue-of-vixen_canvas_36x36.glb",
+              "usdz": "statue-of-vixen_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "statue-of-vixen_canvas_48x48.glb",
+              "usdz": "statue-of-vixen_canvas_48x48.usdz"
             }
           ]
         },
@@ -8355,47 +9125,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "the-royal-bubble_canvas_12-18.glb",
-              "usdz": "the-royal-bubble_canvas_12-18.usdz"
+              "glb": "the-royal-bubble_canvas_12x18.glb",
+              "usdz": "the-royal-bubble_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "the-royal-bubble_canvas_18-24.glb",
-              "usdz": "the-royal-bubble_canvas_18-24.usdz"
+              "glb": "the-royal-bubble_canvas_18x24.glb",
+              "usdz": "the-royal-bubble_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "the-royal-bubble_canvas_24-36.glb",
-              "usdz": "the-royal-bubble_canvas_24-36.usdz"
+              "glb": "the-royal-bubble_canvas_24x36.glb",
+              "usdz": "the-royal-bubble_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "the-royal-bubble_canvas_30-48.glb",
-              "usdz": "the-royal-bubble_canvas_30-48.usdz"
+              "glb": "the-royal-bubble_canvas_30x48.glb",
+              "usdz": "the-royal-bubble_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "the-royal-bubble_canvas_36-60.glb",
-              "usdz": "the-royal-bubble_canvas_36-60.usdz"
+              "glb": "the-royal-bubble_canvas_36x60.glb",
+              "usdz": "the-royal-bubble_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-royal-bubble_canvas_12x12.glb",
+              "usdz": "the-royal-bubble_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-royal-bubble_canvas_18x18.glb",
+              "usdz": "the-royal-bubble_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-royal-bubble_canvas_24x24.glb",
+              "usdz": "the-royal-bubble_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-royal-bubble_canvas_36x36.glb",
+              "usdz": "the-royal-bubble_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-royal-bubble_canvas_48x48.glb",
+              "usdz": "the-royal-bubble_canvas_48x48.usdz"
             }
           ]
         },
@@ -8433,47 +9243,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "good-boy-gone-bad_canvas_12-18.glb",
-              "usdz": "good-boy-gone-bad_canvas_12-18.usdz"
+              "glb": "good-boy-gone-bad_canvas_12x18.glb",
+              "usdz": "good-boy-gone-bad_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "good-boy-gone-bad_canvas_18-24.glb",
-              "usdz": "good-boy-gone-bad_canvas_18-24.usdz"
+              "glb": "good-boy-gone-bad_canvas_18x24.glb",
+              "usdz": "good-boy-gone-bad_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "good-boy-gone-bad_canvas_24-36.glb",
-              "usdz": "good-boy-gone-bad_canvas_24-36.usdz"
+              "glb": "good-boy-gone-bad_canvas_24x36.glb",
+              "usdz": "good-boy-gone-bad_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "good-boy-gone-bad_canvas_30-48.glb",
-              "usdz": "good-boy-gone-bad_canvas_30-48.usdz"
+              "glb": "good-boy-gone-bad_canvas_30x48.glb",
+              "usdz": "good-boy-gone-bad_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "good-boy-gone-bad_canvas_36-60.glb",
-              "usdz": "good-boy-gone-bad_canvas_36-60.usdz"
+              "glb": "good-boy-gone-bad_canvas_36x60.glb",
+              "usdz": "good-boy-gone-bad_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "good-boy-gone-bad_canvas_12x12.glb",
+              "usdz": "good-boy-gone-bad_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "good-boy-gone-bad_canvas_18x18.glb",
+              "usdz": "good-boy-gone-bad_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "good-boy-gone-bad_canvas_24x24.glb",
+              "usdz": "good-boy-gone-bad_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "good-boy-gone-bad_canvas_36x36.glb",
+              "usdz": "good-boy-gone-bad_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "good-boy-gone-bad_canvas_48x48.glb",
+              "usdz": "good-boy-gone-bad_canvas_48x48.usdz"
             }
           ]
         },
@@ -8511,47 +9361,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "azure-gaze_canvas_12-18.glb",
-              "usdz": "azure-gaze_canvas_12-18.usdz"
+              "glb": "azure-gaze_canvas_12x18.glb",
+              "usdz": "azure-gaze_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "azure-gaze_canvas_18-24.glb",
-              "usdz": "azure-gaze_canvas_18-24.usdz"
+              "glb": "azure-gaze_canvas_18x24.glb",
+              "usdz": "azure-gaze_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "azure-gaze_canvas_24-36.glb",
-              "usdz": "azure-gaze_canvas_24-36.usdz"
+              "glb": "azure-gaze_canvas_24x36.glb",
+              "usdz": "azure-gaze_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "azure-gaze_canvas_30-48.glb",
-              "usdz": "azure-gaze_canvas_30-48.usdz"
+              "glb": "azure-gaze_canvas_30x48.glb",
+              "usdz": "azure-gaze_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "azure-gaze_canvas_36-60.glb",
-              "usdz": "azure-gaze_canvas_36-60.usdz"
+              "glb": "azure-gaze_canvas_36x60.glb",
+              "usdz": "azure-gaze_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "azure-gaze_canvas_12x12.glb",
+              "usdz": "azure-gaze_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "azure-gaze_canvas_18x18.glb",
+              "usdz": "azure-gaze_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "azure-gaze_canvas_24x24.glb",
+              "usdz": "azure-gaze_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "azure-gaze_canvas_36x36.glb",
+              "usdz": "azure-gaze_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "azure-gaze_canvas_48x48.glb",
+              "usdz": "azure-gaze_canvas_48x48.usdz"
             }
           ]
         },
@@ -8589,47 +9479,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "slate-and-gold-cascade_canvas_12-18.glb",
-              "usdz": "slate-and-gold-cascade_canvas_12-18.usdz"
+              "glb": "slate-and-gold-cascade_canvas_12x18.glb",
+              "usdz": "slate-and-gold-cascade_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "slate-and-gold-cascade_canvas_18-24.glb",
-              "usdz": "slate-and-gold-cascade_canvas_18-24.usdz"
+              "glb": "slate-and-gold-cascade_canvas_18x24.glb",
+              "usdz": "slate-and-gold-cascade_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "slate-and-gold-cascade_canvas_24-36.glb",
-              "usdz": "slate-and-gold-cascade_canvas_24-36.usdz"
+              "glb": "slate-and-gold-cascade_canvas_24x36.glb",
+              "usdz": "slate-and-gold-cascade_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "slate-and-gold-cascade_canvas_30-48.glb",
-              "usdz": "slate-and-gold-cascade_canvas_30-48.usdz"
+              "glb": "slate-and-gold-cascade_canvas_30x48.glb",
+              "usdz": "slate-and-gold-cascade_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "slate-and-gold-cascade_canvas_36-60.glb",
-              "usdz": "slate-and-gold-cascade_canvas_36-60.usdz"
+              "glb": "slate-and-gold-cascade_canvas_36x60.glb",
+              "usdz": "slate-and-gold-cascade_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "slate-and-gold-cascade_canvas_12x12.glb",
+              "usdz": "slate-and-gold-cascade_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "slate-and-gold-cascade_canvas_18x18.glb",
+              "usdz": "slate-and-gold-cascade_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "slate-and-gold-cascade_canvas_24x24.glb",
+              "usdz": "slate-and-gold-cascade_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "slate-and-gold-cascade_canvas_36x36.glb",
+              "usdz": "slate-and-gold-cascade_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "slate-and-gold-cascade_canvas_48x48.glb",
+              "usdz": "slate-and-gold-cascade_canvas_48x48.usdz"
             }
           ]
         },
@@ -8667,47 +9597,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "sediment-and-solace_canvas_12-18.glb",
-              "usdz": "sediment-and-solace_canvas_12-18.usdz"
+              "glb": "sediment-and-solace_canvas_12x18.glb",
+              "usdz": "sediment-and-solace_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "sediment-and-solace_canvas_18-24.glb",
-              "usdz": "sediment-and-solace_canvas_18-24.usdz"
+              "glb": "sediment-and-solace_canvas_18x24.glb",
+              "usdz": "sediment-and-solace_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "sediment-and-solace_canvas_24-36.glb",
-              "usdz": "sediment-and-solace_canvas_24-36.usdz"
+              "glb": "sediment-and-solace_canvas_24x36.glb",
+              "usdz": "sediment-and-solace_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "sediment-and-solace_canvas_30-48.glb",
-              "usdz": "sediment-and-solace_canvas_30-48.usdz"
+              "glb": "sediment-and-solace_canvas_30x48.glb",
+              "usdz": "sediment-and-solace_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "sediment-and-solace_canvas_36-60.glb",
-              "usdz": "sediment-and-solace_canvas_36-60.usdz"
+              "glb": "sediment-and-solace_canvas_36x60.glb",
+              "usdz": "sediment-and-solace_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "sediment-and-solace_canvas_12x12.glb",
+              "usdz": "sediment-and-solace_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "sediment-and-solace_canvas_18x18.glb",
+              "usdz": "sediment-and-solace_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "sediment-and-solace_canvas_24x24.glb",
+              "usdz": "sediment-and-solace_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "sediment-and-solace_canvas_36x36.glb",
+              "usdz": "sediment-and-solace_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "sediment-and-solace_canvas_48x48.glb",
+              "usdz": "sediment-and-solace_canvas_48x48.usdz"
             }
           ]
         },
@@ -8745,47 +9715,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "noir-petal-sweep_canvas_12-18.glb",
-              "usdz": "noir-petal-sweep_canvas_12-18.usdz"
+              "glb": "noir-petal-sweep_canvas_12x18.glb",
+              "usdz": "noir-petal-sweep_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "noir-petal-sweep_canvas_18-24.glb",
-              "usdz": "noir-petal-sweep_canvas_18-24.usdz"
+              "glb": "noir-petal-sweep_canvas_18x24.glb",
+              "usdz": "noir-petal-sweep_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "noir-petal-sweep_canvas_24-36.glb",
-              "usdz": "noir-petal-sweep_canvas_24-36.usdz"
+              "glb": "noir-petal-sweep_canvas_24x36.glb",
+              "usdz": "noir-petal-sweep_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "noir-petal-sweep_canvas_30-48.glb",
-              "usdz": "noir-petal-sweep_canvas_30-48.usdz"
+              "glb": "noir-petal-sweep_canvas_30x48.glb",
+              "usdz": "noir-petal-sweep_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "noir-petal-sweep_canvas_36-60.glb",
-              "usdz": "noir-petal-sweep_canvas_36-60.usdz"
+              "glb": "noir-petal-sweep_canvas_36x60.glb",
+              "usdz": "noir-petal-sweep_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "noir-petal-sweep_canvas_12x12.glb",
+              "usdz": "noir-petal-sweep_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "noir-petal-sweep_canvas_18x18.glb",
+              "usdz": "noir-petal-sweep_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "noir-petal-sweep_canvas_24x24.glb",
+              "usdz": "noir-petal-sweep_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "noir-petal-sweep_canvas_36x36.glb",
+              "usdz": "noir-petal-sweep_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "noir-petal-sweep_canvas_48x48.glb",
+              "usdz": "noir-petal-sweep_canvas_48x48.usdz"
             }
           ]
         },
@@ -8823,47 +9833,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "midnight-ember_canvas_12-18.glb",
-              "usdz": "midnight-ember_canvas_12-18.usdz"
+              "glb": "midnight-ember_canvas_12x18.glb",
+              "usdz": "midnight-ember_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "midnight-ember_canvas_18-24.glb",
-              "usdz": "midnight-ember_canvas_18-24.usdz"
+              "glb": "midnight-ember_canvas_18x24.glb",
+              "usdz": "midnight-ember_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "midnight-ember_canvas_24-36.glb",
-              "usdz": "midnight-ember_canvas_24-36.usdz"
+              "glb": "midnight-ember_canvas_24x36.glb",
+              "usdz": "midnight-ember_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "midnight-ember_canvas_30-48.glb",
-              "usdz": "midnight-ember_canvas_30-48.usdz"
+              "glb": "midnight-ember_canvas_30x48.glb",
+              "usdz": "midnight-ember_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "midnight-ember_canvas_36-60.glb",
-              "usdz": "midnight-ember_canvas_36-60.usdz"
+              "glb": "midnight-ember_canvas_36x60.glb",
+              "usdz": "midnight-ember_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "midnight-ember_canvas_12x12.glb",
+              "usdz": "midnight-ember_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "midnight-ember_canvas_18x18.glb",
+              "usdz": "midnight-ember_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "midnight-ember_canvas_24x24.glb",
+              "usdz": "midnight-ember_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "midnight-ember_canvas_36x36.glb",
+              "usdz": "midnight-ember_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "midnight-ember_canvas_48x48.glb",
+              "usdz": "midnight-ember_canvas_48x48.usdz"
             }
           ]
         },
@@ -8901,47 +9951,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "liquid-copper-drift_canvas_12-18.glb",
-              "usdz": "liquid-copper-drift_canvas_12-18.usdz"
+              "glb": "liquid-copper-drift_canvas_12x18.glb",
+              "usdz": "liquid-copper-drift_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "liquid-copper-drift_canvas_18-24.glb",
-              "usdz": "liquid-copper-drift_canvas_18-24.usdz"
+              "glb": "liquid-copper-drift_canvas_18x24.glb",
+              "usdz": "liquid-copper-drift_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "liquid-copper-drift_canvas_24-36.glb",
-              "usdz": "liquid-copper-drift_canvas_24-36.usdz"
+              "glb": "liquid-copper-drift_canvas_24x36.glb",
+              "usdz": "liquid-copper-drift_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "liquid-copper-drift_canvas_30-48.glb",
-              "usdz": "liquid-copper-drift_canvas_30-48.usdz"
+              "glb": "liquid-copper-drift_canvas_30x48.glb",
+              "usdz": "liquid-copper-drift_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "liquid-copper-drift_canvas_36-60.glb",
-              "usdz": "liquid-copper-drift_canvas_36-60.usdz"
+              "glb": "liquid-copper-drift_canvas_36x60.glb",
+              "usdz": "liquid-copper-drift_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "liquid-copper-drift_canvas_12x12.glb",
+              "usdz": "liquid-copper-drift_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "liquid-copper-drift_canvas_18x18.glb",
+              "usdz": "liquid-copper-drift_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "liquid-copper-drift_canvas_24x24.glb",
+              "usdz": "liquid-copper-drift_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "liquid-copper-drift_canvas_36x36.glb",
+              "usdz": "liquid-copper-drift_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "liquid-copper-drift_canvas_48x48.glb",
+              "usdz": "liquid-copper-drift_canvas_48x48.usdz"
             }
           ]
         },
@@ -8979,47 +10069,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "indigo-tide-layers_canvas_12-18.glb",
-              "usdz": "indigo-tide-layers_canvas_12-18.usdz"
+              "glb": "indigo-tide-layers_canvas_12x18.glb",
+              "usdz": "indigo-tide-layers_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "indigo-tide-layers_canvas_18-24.glb",
-              "usdz": "indigo-tide-layers_canvas_18-24.usdz"
+              "glb": "indigo-tide-layers_canvas_18x24.glb",
+              "usdz": "indigo-tide-layers_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "indigo-tide-layers_canvas_24-36.glb",
-              "usdz": "indigo-tide-layers_canvas_24-36.usdz"
+              "glb": "indigo-tide-layers_canvas_24x36.glb",
+              "usdz": "indigo-tide-layers_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "indigo-tide-layers_canvas_30-48.glb",
-              "usdz": "indigo-tide-layers_canvas_30-48.usdz"
+              "glb": "indigo-tide-layers_canvas_30x48.glb",
+              "usdz": "indigo-tide-layers_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "indigo-tide-layers_canvas_36-60.glb",
-              "usdz": "indigo-tide-layers_canvas_36-60.usdz"
+              "glb": "indigo-tide-layers_canvas_36x60.glb",
+              "usdz": "indigo-tide-layers_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "indigo-tide-layers_canvas_12x12.glb",
+              "usdz": "indigo-tide-layers_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "indigo-tide-layers_canvas_18x18.glb",
+              "usdz": "indigo-tide-layers_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "indigo-tide-layers_canvas_24x24.glb",
+              "usdz": "indigo-tide-layers_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "indigo-tide-layers_canvas_36x36.glb",
+              "usdz": "indigo-tide-layers_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "indigo-tide-layers_canvas_48x48.glb",
+              "usdz": "indigo-tide-layers_canvas_48x48.usdz"
             }
           ]
         },
@@ -9057,47 +10187,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "eclipse-over-clay_canvas_12-18.glb",
-              "usdz": "eclipse-over-clay_canvas_12-18.usdz"
+              "glb": "eclipse-over-clay_canvas_12x18.glb",
+              "usdz": "eclipse-over-clay_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "eclipse-over-clay_canvas_18-24.glb",
-              "usdz": "eclipse-over-clay_canvas_18-24.usdz"
+              "glb": "eclipse-over-clay_canvas_18x24.glb",
+              "usdz": "eclipse-over-clay_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "eclipse-over-clay_canvas_24-36.glb",
-              "usdz": "eclipse-over-clay_canvas_24-36.usdz"
+              "glb": "eclipse-over-clay_canvas_24x36.glb",
+              "usdz": "eclipse-over-clay_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "eclipse-over-clay_canvas_30-48.glb",
-              "usdz": "eclipse-over-clay_canvas_30-48.usdz"
+              "glb": "eclipse-over-clay_canvas_30x48.glb",
+              "usdz": "eclipse-over-clay_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "eclipse-over-clay_canvas_36-60.glb",
-              "usdz": "eclipse-over-clay_canvas_36-60.usdz"
+              "glb": "eclipse-over-clay_canvas_36x60.glb",
+              "usdz": "eclipse-over-clay_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "eclipse-over-clay_canvas_12x12.glb",
+              "usdz": "eclipse-over-clay_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "eclipse-over-clay_canvas_18x18.glb",
+              "usdz": "eclipse-over-clay_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "eclipse-over-clay_canvas_24x24.glb",
+              "usdz": "eclipse-over-clay_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "eclipse-over-clay_canvas_36x36.glb",
+              "usdz": "eclipse-over-clay_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "eclipse-over-clay_canvas_48x48.glb",
+              "usdz": "eclipse-over-clay_canvas_48x48.usdz"
             }
           ]
         },
@@ -9135,47 +10305,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "dusk-over-stone_canvas_12-18.glb",
-              "usdz": "dusk-over-stone_canvas_12-18.usdz"
+              "glb": "dusk-over-stone_canvas_12x18.glb",
+              "usdz": "dusk-over-stone_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "dusk-over-stone_canvas_18-24.glb",
-              "usdz": "dusk-over-stone_canvas_18-24.usdz"
+              "glb": "dusk-over-stone_canvas_18x24.glb",
+              "usdz": "dusk-over-stone_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "dusk-over-stone_canvas_24-36.glb",
-              "usdz": "dusk-over-stone_canvas_24-36.usdz"
+              "glb": "dusk-over-stone_canvas_24x36.glb",
+              "usdz": "dusk-over-stone_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "dusk-over-stone_canvas_30-48.glb",
-              "usdz": "dusk-over-stone_canvas_30-48.usdz"
+              "glb": "dusk-over-stone_canvas_30x48.glb",
+              "usdz": "dusk-over-stone_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "dusk-over-stone_canvas_36-60.glb",
-              "usdz": "dusk-over-stone_canvas_36-60.usdz"
+              "glb": "dusk-over-stone_canvas_36x60.glb",
+              "usdz": "dusk-over-stone_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "dusk-over-stone_canvas_12x12.glb",
+              "usdz": "dusk-over-stone_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "dusk-over-stone_canvas_18x18.glb",
+              "usdz": "dusk-over-stone_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "dusk-over-stone_canvas_24x24.glb",
+              "usdz": "dusk-over-stone_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "dusk-over-stone_canvas_36x36.glb",
+              "usdz": "dusk-over-stone_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "dusk-over-stone_canvas_48x48.glb",
+              "usdz": "dusk-over-stone_canvas_48x48.usdz"
             }
           ]
         },
@@ -9213,47 +10423,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "blush-fragment_canvas_12-18.glb",
-              "usdz": "blush-fragment_canvas_12-18.usdz"
+              "glb": "blush-fragment_canvas_12x18.glb",
+              "usdz": "blush-fragment_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "blush-fragment_canvas_18-24.glb",
-              "usdz": "blush-fragment_canvas_18-24.usdz"
+              "glb": "blush-fragment_canvas_18x24.glb",
+              "usdz": "blush-fragment_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "blush-fragment_canvas_24-36.glb",
-              "usdz": "blush-fragment_canvas_24-36.usdz"
+              "glb": "blush-fragment_canvas_24x36.glb",
+              "usdz": "blush-fragment_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "blush-fragment_canvas_30-48.glb",
-              "usdz": "blush-fragment_canvas_30-48.usdz"
+              "glb": "blush-fragment_canvas_30x48.glb",
+              "usdz": "blush-fragment_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "blush-fragment_canvas_36-60.glb",
-              "usdz": "blush-fragment_canvas_36-60.usdz"
+              "glb": "blush-fragment_canvas_36x60.glb",
+              "usdz": "blush-fragment_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "blush-fragment_canvas_12x12.glb",
+              "usdz": "blush-fragment_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "blush-fragment_canvas_18x18.glb",
+              "usdz": "blush-fragment_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "blush-fragment_canvas_24x24.glb",
+              "usdz": "blush-fragment_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "blush-fragment_canvas_36x36.glb",
+              "usdz": "blush-fragment_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "blush-fragment_canvas_48x48.glb",
+              "usdz": "blush-fragment_canvas_48x48.usdz"
             }
           ]
         },
@@ -9283,6 +10533,596 @@
       ]
     },
     {
+      "id": "the-red-catalyst",
+      "name": "The Red Catalyst",
+      "suite": "Ink & Interval",
+      "thumb": "the-red-catalyst_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "12x18",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_12x18.glb",
+              "usdz": "the-red-catalyst_canvas_12x18.usdz"
+            },
+            {
+              "label": "18x24",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_18x24.glb",
+              "usdz": "the-red-catalyst_canvas_18x24.usdz"
+            },
+            {
+              "label": "24x36",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_24x36.glb",
+              "usdz": "the-red-catalyst_canvas_24x36.usdz"
+            },
+            {
+              "label": "30x48",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_30x48.glb",
+              "usdz": "the-red-catalyst_canvas_30x48.usdz"
+            },
+            {
+              "label": "36x60",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_36x60.glb",
+              "usdz": "the-red-catalyst_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_12x12.glb",
+              "usdz": "the-red-catalyst_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_18x18.glb",
+              "usdz": "the-red-catalyst_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_24x24.glb",
+              "usdz": "the-red-catalyst_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_36x36.glb",
+              "usdz": "the-red-catalyst_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-red-catalyst_canvas_48x48.glb",
+              "usdz": "the-red-catalyst_canvas_48x48.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "the-red-catalyst_poster_a4.glb",
+              "usdz": "the-red-catalyst_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "the-red-catalyst_poster_a3.glb",
+              "usdz": "the-red-catalyst_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neural-network",
+      "name": "Neural Network",
+      "suite": "Ink & Interval",
+      "thumb": "neural-network_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "12x18",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "neural-network_canvas_12x18.glb",
+              "usdz": "neural-network_canvas_12x18.usdz"
+            },
+            {
+              "label": "18x24",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "neural-network_canvas_18x24.glb",
+              "usdz": "neural-network_canvas_18x24.usdz"
+            },
+            {
+              "label": "24x36",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "neural-network_canvas_24x36.glb",
+              "usdz": "neural-network_canvas_24x36.usdz"
+            },
+            {
+              "label": "30x48",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "neural-network_canvas_30x48.glb",
+              "usdz": "neural-network_canvas_30x48.usdz"
+            },
+            {
+              "label": "36x60",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "neural-network_canvas_36x60.glb",
+              "usdz": "neural-network_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "neural-network_canvas_12x12.glb",
+              "usdz": "neural-network_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "neural-network_canvas_18x18.glb",
+              "usdz": "neural-network_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "neural-network_canvas_24x24.glb",
+              "usdz": "neural-network_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "neural-network_canvas_36x36.glb",
+              "usdz": "neural-network_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "neural-network_canvas_48x48.glb",
+              "usdz": "neural-network_canvas_48x48.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "neural-network_poster_a4.glb",
+              "usdz": "neural-network_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "neural-network_poster_a3.glb",
+              "usdz": "neural-network_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-sentinel",
+      "name": "The Sentinel",
+      "suite": "Ink & Interval",
+      "thumb": "the-sentinel_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "12x18",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_12x18.glb",
+              "usdz": "the-sentinel_canvas_12x18.usdz"
+            },
+            {
+              "label": "18x24",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_18x24.glb",
+              "usdz": "the-sentinel_canvas_18x24.usdz"
+            },
+            {
+              "label": "24x36",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_24x36.glb",
+              "usdz": "the-sentinel_canvas_24x36.usdz"
+            },
+            {
+              "label": "30x48",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_30x48.glb",
+              "usdz": "the-sentinel_canvas_30x48.usdz"
+            },
+            {
+              "label": "36x60",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_36x60.glb",
+              "usdz": "the-sentinel_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_12x12.glb",
+              "usdz": "the-sentinel_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_18x18.glb",
+              "usdz": "the-sentinel_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_24x24.glb",
+              "usdz": "the-sentinel_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_36x36.glb",
+              "usdz": "the-sentinel_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "the-sentinel_canvas_48x48.glb",
+              "usdz": "the-sentinel_canvas_48x48.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "the-sentinel_poster_a4.glb",
+              "usdz": "the-sentinel_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "the-sentinel_poster_a3.glb",
+              "usdz": "the-sentinel_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "constructivist-balance",
+      "name": "Constructivist Balance",
+      "suite": "Ink & Interval",
+      "thumb": "constructivist-balance_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "12x18",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_12x18.glb",
+              "usdz": "constructivist-balance_canvas_12x18.usdz"
+            },
+            {
+              "label": "18x24",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_18x24.glb",
+              "usdz": "constructivist-balance_canvas_18x24.usdz"
+            },
+            {
+              "label": "24x36",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_24x36.glb",
+              "usdz": "constructivist-balance_canvas_24x36.usdz"
+            },
+            {
+              "label": "30x48",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_30x48.glb",
+              "usdz": "constructivist-balance_canvas_30x48.usdz"
+            },
+            {
+              "label": "36x60",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_36x60.glb",
+              "usdz": "constructivist-balance_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_12x12.glb",
+              "usdz": "constructivist-balance_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_18x18.glb",
+              "usdz": "constructivist-balance_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_24x24.glb",
+              "usdz": "constructivist-balance_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_36x36.glb",
+              "usdz": "constructivist-balance_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "constructivist-balance_canvas_48x48.glb",
+              "usdz": "constructivist-balance_canvas_48x48.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "constructivist-balance_poster_a4.glb",
+              "usdz": "constructivist-balance_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "constructivist-balance_poster_a3.glb",
+              "usdz": "constructivist-balance_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fragmented-soul",
+      "name": "Fragmented Soul",
+      "suite": "Ink & Interval",
+      "thumb": "fragmented-soul_thumb.jpg",
+      "products": [
+        {
+          "id": "canvas",
+          "name": "Canvas",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "12x18",
+              "w": 12,
+              "h": 18,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_12x18.glb",
+              "usdz": "fragmented-soul_canvas_12x18.usdz"
+            },
+            {
+              "label": "18x24",
+              "w": 18,
+              "h": 24,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_18x24.glb",
+              "usdz": "fragmented-soul_canvas_18x24.usdz"
+            },
+            {
+              "label": "24x36",
+              "w": 24,
+              "h": 36,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_24x36.glb",
+              "usdz": "fragmented-soul_canvas_24x36.usdz"
+            },
+            {
+              "label": "30x48",
+              "w": 30,
+              "h": 48,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_30x48.glb",
+              "usdz": "fragmented-soul_canvas_30x48.usdz"
+            },
+            {
+              "label": "36x60",
+              "w": 36,
+              "h": 60,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_36x60.glb",
+              "usdz": "fragmented-soul_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_12x12.glb",
+              "usdz": "fragmented-soul_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_18x18.glb",
+              "usdz": "fragmented-soul_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_24x24.glb",
+              "usdz": "fragmented-soul_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_36x36.glb",
+              "usdz": "fragmented-soul_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "fragmented-soul_canvas_48x48.glb",
+              "usdz": "fragmented-soul_canvas_48x48.usdz"
+            }
+          ]
+        },
+        {
+          "id": "poster",
+          "name": "Poster",
+          "frame": "none",
+          "sizes": [
+            {
+              "label": "A4",
+              "w": 210,
+              "h": 297,
+              "unit": "mm",
+              "glb": "fragmented-soul_poster_a4.glb",
+              "usdz": "fragmented-soul_poster_a4.usdz"
+            },
+            {
+              "label": "A3",
+              "w": 297,
+              "h": 420,
+              "unit": "mm",
+              "glb": "fragmented-soul_poster_a3.glb",
+              "usdz": "fragmented-soul_poster_a3.usdz"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "palm-springs-prowl",
       "name": "Palm Springs Prowl",
       "suite": "The Wild Eccentrics",
@@ -9291,47 +11131,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "palm-springs-prowl_canvas_12-18.glb",
-              "usdz": "palm-springs-prowl_canvas_12-18.usdz"
+              "glb": "palm-springs-prowl_canvas_12x18.glb",
+              "usdz": "palm-springs-prowl_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "palm-springs-prowl_canvas_18-24.glb",
-              "usdz": "palm-springs-prowl_canvas_18-24.usdz"
+              "glb": "palm-springs-prowl_canvas_18x24.glb",
+              "usdz": "palm-springs-prowl_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "palm-springs-prowl_canvas_24-36.glb",
-              "usdz": "palm-springs-prowl_canvas_24-36.usdz"
+              "glb": "palm-springs-prowl_canvas_24x36.glb",
+              "usdz": "palm-springs-prowl_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "palm-springs-prowl_canvas_30-48.glb",
-              "usdz": "palm-springs-prowl_canvas_30-48.usdz"
+              "glb": "palm-springs-prowl_canvas_30x48.glb",
+              "usdz": "palm-springs-prowl_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "palm-springs-prowl_canvas_36-60.glb",
-              "usdz": "palm-springs-prowl_canvas_36-60.usdz"
+              "glb": "palm-springs-prowl_canvas_36x60.glb",
+              "usdz": "palm-springs-prowl_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "palm-springs-prowl_canvas_12x12.glb",
+              "usdz": "palm-springs-prowl_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "palm-springs-prowl_canvas_18x18.glb",
+              "usdz": "palm-springs-prowl_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "palm-springs-prowl_canvas_24x24.glb",
+              "usdz": "palm-springs-prowl_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "palm-springs-prowl_canvas_36x36.glb",
+              "usdz": "palm-springs-prowl_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "palm-springs-prowl_canvas_48x48.glb",
+              "usdz": "palm-springs-prowl_canvas_48x48.usdz"
             }
           ]
         },
@@ -9369,47 +11249,87 @@
         {
           "id": "canvas",
           "name": "Canvas",
-          "frame": "oak",
+          "frame": "none",
           "sizes": [
             {
-              "label": "12\u00d718",
+              "label": "12x18",
               "w": 12,
               "h": 18,
               "unit": "in",
-              "glb": "dreaming-in-colors_canvas_12-18.glb",
-              "usdz": "dreaming-in-colors_canvas_12-18.usdz"
+              "glb": "dreaming-in-colors_canvas_12x18.glb",
+              "usdz": "dreaming-in-colors_canvas_12x18.usdz"
             },
             {
-              "label": "18\u00d724",
+              "label": "18x24",
               "w": 18,
               "h": 24,
               "unit": "in",
-              "glb": "dreaming-in-colors_canvas_18-24.glb",
-              "usdz": "dreaming-in-colors_canvas_18-24.usdz"
+              "glb": "dreaming-in-colors_canvas_18x24.glb",
+              "usdz": "dreaming-in-colors_canvas_18x24.usdz"
             },
             {
-              "label": "24\u00d736",
+              "label": "24x36",
               "w": 24,
               "h": 36,
               "unit": "in",
-              "glb": "dreaming-in-colors_canvas_24-36.glb",
-              "usdz": "dreaming-in-colors_canvas_24-36.usdz"
+              "glb": "dreaming-in-colors_canvas_24x36.glb",
+              "usdz": "dreaming-in-colors_canvas_24x36.usdz"
             },
             {
-              "label": "30\u00d748",
+              "label": "30x48",
               "w": 30,
               "h": 48,
               "unit": "in",
-              "glb": "dreaming-in-colors_canvas_30-48.glb",
-              "usdz": "dreaming-in-colors_canvas_30-48.usdz"
+              "glb": "dreaming-in-colors_canvas_30x48.glb",
+              "usdz": "dreaming-in-colors_canvas_30x48.usdz"
             },
             {
-              "label": "36\u00d760",
+              "label": "36x60",
               "w": 36,
               "h": 60,
               "unit": "in",
-              "glb": "dreaming-in-colors_canvas_36-60.glb",
-              "usdz": "dreaming-in-colors_canvas_36-60.usdz"
+              "glb": "dreaming-in-colors_canvas_36x60.glb",
+              "usdz": "dreaming-in-colors_canvas_36x60.usdz"
+            },
+            {
+              "label": "12x12",
+              "w": 12,
+              "h": 12,
+              "unit": "in",
+              "glb": "dreaming-in-colors_canvas_12x12.glb",
+              "usdz": "dreaming-in-colors_canvas_12x12.usdz"
+            },
+            {
+              "label": "18x18",
+              "w": 18,
+              "h": 18,
+              "unit": "in",
+              "glb": "dreaming-in-colors_canvas_18x18.glb",
+              "usdz": "dreaming-in-colors_canvas_18x18.usdz"
+            },
+            {
+              "label": "24x24",
+              "w": 24,
+              "h": 24,
+              "unit": "in",
+              "glb": "dreaming-in-colors_canvas_24x24.glb",
+              "usdz": "dreaming-in-colors_canvas_24x24.usdz"
+            },
+            {
+              "label": "36x36",
+              "w": 36,
+              "h": 36,
+              "unit": "in",
+              "glb": "dreaming-in-colors_canvas_36x36.glb",
+              "usdz": "dreaming-in-colors_canvas_36x36.usdz"
+            },
+            {
+              "label": "48x48",
+              "w": 48,
+              "h": 48,
+              "unit": "in",
+              "glb": "dreaming-in-colors_canvas_48x48.glb",
+              "usdz": "dreaming-in-colors_canvas_48x48.usdz"
             }
           ]
         },
