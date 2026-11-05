@@ -111,7 +111,13 @@ def main():
                 tag = f"{base}_{cfg['id']}_{slugify(label)}"
                 tex = os.path.join(a.out, tag + ("_tex.jpg" if a.jpeg else "_tex.png"))
                 cropped.save(tex, quality=88) if a.jpeg else cropped.save(tex)
-                scene, _, _ = p2a.build(cropped, w_m, h_m, cfg["frame"], cfg["kind"])
+                # trimesh re-encodes a texture as PNG unless the PIL image
+                # reports format "JPEG", which a cropped/resized one never
+                # does. Reopening the file we just wrote keeps the glb's
+                # texture as the same JPEG the usdz embeds -- about an eighth
+                # the bytes, which matters when a phone loads this over data.
+                art = Image.open(tex) if a.jpeg else cropped
+                scene, _, _ = p2a.build(art, w_m, h_m, cfg["frame"], cfg["kind"])
                 scene.export(os.path.join(a.out, tag + ".glb"))
                 p2a.export_usdz(tex, os.path.join(a.out, tag + ".usdz"), w_m, h_m, cfg["frame"], cfg["kind"])
                 os.remove(tex)
