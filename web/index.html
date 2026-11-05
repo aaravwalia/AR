@@ -146,7 +146,10 @@ thumbs(); prods(); sizes(); apply();
     no Scene Viewer, so a dead end shows the piece in 3D instead of nothing.
   */
   const sceneViewerIntent = () => {
-    const file = new URL(mv.getAttribute("src"), location.href).href;
+    /* mv.src is the property model-viewer actually loads from; it is never
+       reflected back to the attribute, so getAttribute("src") is null here and
+       every intent shipped file=<origin>/null. Prefer the property. */
+    const file = new URL(mv.src || mv.getAttribute("src") || "", location.href).href;
     const title = $("pname").textContent || "GPSFDK";
     const back = location.href.replace(/([?&])ar=1(&|$)/, "$1").replace(/[?&]$/, "");
     return (
