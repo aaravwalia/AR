@@ -11,3 +11,5 @@ scene.usdc
 # is small and is the contract the website reads, so that one is tracked.
 web/models/*
 !web/models/catalog.json
+*_tex.jpg
+_orphans_old_naming/
