@@ -1,17 +1,37 @@
 {
   "products": [
     {
-      "id": "canvas", "name": "Canvas", "kind": "canvas", "frame": "none",
+      "id": "stretched", "name": "Stretched Canvas", "kind": "canvas", "frame": "none",
       "sizes": [
         ["12x18", 12, 18, "in"],
         ["18x24", 18, 24, "in"],
         ["24x36", 24, 36, "in"],
         ["30x48", 30, 48, "in"],
-        ["36x60", 36, 60, "in"]
+        ["36x60", 36, 60, "in"],
+        ["12x12", 12, 12, "in"],
+        ["18x18", 18, 18, "in"],
+        ["24x24", 24, 24, "in"],
+        ["36x36", 36, 36, "in"],
+        ["48x48", 48, 48, "in"]
       ]
     },
     {
-      "id": "poster", "name": "Poster", "kind": "poster", "frame": "none",
+      "id": "rolled", "name": "Rolled Canvas", "kind": "rolled", "frame": "none",
+      "sizes": [
+        ["12x18", 12, 18, "in"],
+        ["18x24", 18, 24, "in"],
+        ["24x36", 24, 36, "in"],
+        ["30x48", 30, 48, "in"],
+        ["36x60", 36, 60, "in"],
+        ["12x12", 12, 12, "in"],
+        ["18x18", 18, 18, "in"],
+        ["24x24", 24, 24, "in"],
+        ["36x36", 36, 36, "in"],
+        ["48x48", 48, 48, "in"]
+      ]
+    },
+    {
+      "id": "poster", "name": "Soft Board Poster", "kind": "poster", "frame": "none",
       "sizes": [
         ["A4", 210, 297, "mm"],
         ["A3", 297, 420, "mm"]

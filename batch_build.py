@@ -56,7 +56,10 @@ def main():
             for prod in products:
                 sizes_out = []
                 for label, w, h, unit in prod["sizes"]:
-                    cropped = p2a.center_crop_to_ratio(src, w, h)
+                    # A gallery wrap prints the sides too, so crop the
+                    # sheet rather than just the face.
+                    cw, ch = p2a.wrap_ratio(w, h, prod["kind"], unit)
+                    cropped = p2a.center_crop_to_ratio(src, cw, ch)
                     # Downscale the embedded texture so models stay small (~1MB
                     # instead of ~28MB). 1600px on the long edge is plenty sharp
                     # for AR and keeps the whole catalog deployable.
